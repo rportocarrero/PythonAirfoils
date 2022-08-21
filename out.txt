@@ -1,0 +1,3384 @@
+database airfoilData.db created.
+2032c
+Time Remaining (min): 14.293181416392326
+a18
+Time Remaining (min): 14.227708242999183
+a18sm
+Time Remaining (min): 16.608398313323658
+a63a108c
+Time Remaining (min): 14.286747595336703
+ag03
+Time Remaining (min): 14.185592206981447
+ag04
+Time Remaining (min): 14.16906665166219
+ag08
+Time Remaining (min): 14.220591604047351
+ag09
+Time Remaining (min): 14.239356895287832
+ag10
+Time Remaining (min): 14.237627106904984
+ag11
+Time Remaining (min): 14.139149933391147
+ag12
+Time Remaining (min): 14.207793679171138
+ag13
+Time Remaining (min): 14.354047848780949
+ag14
+Time Remaining (min): 14.139321322242418
+ag16
+Time Remaining (min): 15.335080771976047
+ag17
+Time Remaining (min): 14.365166557828585
+ag18
+Time Remaining (min): 14.23993477622668
+ag19
+Time Remaining (min): 14.900456636812951
+ag24
+Time Remaining (min): 15.02325439453125
+ag25
+Time Remaining (min): 14.114343121978973
+ag26
+Time Remaining (min): 14.13048428164588
+ag27
+Time Remaining (min): 14.11454170147578
+ag35
+Time Remaining (min): 14.104697137408786
+ag36
+Time Remaining (min): 14.138813907901445
+ag37
+Time Remaining (min): 14.020019753774006
+ag38
+Time Remaining (min): 14.087881741258833
+ag44ct02r
+Time Remaining (min): 14.091537107361688
+ag455ct02r
+Time Remaining (min): 16.778036427497863
+ag45c03
+Time Remaining (min): 14.018441908889347
+ag45ct02r
+Time Remaining (min): 14.05565624071492
+ag46c03
+Time Remaining (min): 16.886276173591614
+ag46ct02r
+Time Remaining (min): 13.996378665500217
+ag47c03
+Time Remaining (min): 14.067263888650471
+ag47ct02r
+Time Remaining (min): 13.910951892534891
+ah21-7
+Time Remaining (min): 13.968035431702932
+ah21-9
+Time Remaining (min): 14.212926025191942
+ah63k127
+Time Remaining (min): 13.95460178256035
+ah6407
+Time Remaining (min): 13.991497215959761
+ah7476
+Time Remaining (min): 13.929938210381401
+ah79100a
+Time Remaining (min): 13.904128479957581
+ah79100b
+Time Remaining (min): 13.973895275592804
+ah79100c
+Time Remaining (min): 14.727789173523584
+ah79k132
+Time Remaining (min): 13.947885127862294
+ah79k135
+Time Remaining (min): 15.649963165322939
+ah79k143
+Time Remaining (min): 13.875513605276744
+ah80129
+Time Remaining (min): 13.820956259965897
+ah80136
+Time Remaining (min): 13.79798809952206
+ah80140
+Time Remaining (min): 13.802444576885964
+ah81131
+Time Remaining (min): 13.842308521270752
+ah81k144
+Time Remaining (min): 16.522816866967414
+ah81k144wfklappe
+https://m-selig.ae.illinois.edu/ads/coord/ah81k144wfklappe.dat: 404
+Time Remaining (min): 14.024979943699307
+ah82150a
+Time Remaining (min): 13.895692335565885
+ah82150f
+Time Remaining (min): 13.912231306897269
+ah83150q
+Time Remaining (min): 13.861628702945179
+ah83159
+Time Remaining (min): 13.829477500915527
+ah85l120
+http://airfoiltools.com/polar/csv?polar=xf-ah85l120-il-200000: 404
+Time Remaining (min): 14.293691718578339
+ah88k130
+Time Remaining (min): 13.784561134046978
+ah88k136
+Time Remaining (min): 13.783819510539372
+ah93156
+Time Remaining (min): 13.728576382001242
+ah93157
+Time Remaining (min): 13.69121557407909
+ah93k130
+Time Remaining (min): 13.846116729577382
+ah93k131
+Time Remaining (min): 13.798883057302898
+ah93k132
+Time Remaining (min): 13.774655821588304
+ah93w145
+Time Remaining (min): 13.767739906907082
+ah93w174
+Time Remaining (min): 13.767915858162773
+ah93w215
+Time Remaining (min): 13.739409770568212
+ah93w257
+Time Remaining (min): 13.71521082719167
+ah93w300
+Time Remaining (min): 14.097575754258369
+ah93w480b
+Time Remaining (min): 13.7355986767345
+ah94145
+Time Remaining (min): 13.755196744203568
+ah94156
+Time Remaining (min): 13.730568673875597
+ah94w301
+Time Remaining (min): 13.728371241688729
+ah95160
+Time Remaining (min): 13.737230479717255
+ames01
+Time Remaining (min): 13.65733548005422
+ames02
+Time Remaining (min): 16.339512168036567
+ames03
+Time Remaining (min): 13.681774406631787
+amsoil1
+Time Remaining (min): 13.645623923010296
+amsoil2
+Time Remaining (min): 13.649672532743878
+apex16
+Time Remaining (min): 13.644015908241272
+aquilasm
+Time Remaining (min): 13.630486241645283
+arad10
+Time Remaining (min): 13.658713350693384
+arad13
+Time Remaining (min): 13.568767911195755
+arad20
+Time Remaining (min): 13.914642976389992
+arad6
+Time Remaining (min): 13.562935002975994
+as5045
+Time Remaining (min): 13.606256620089214
+as5046
+Time Remaining (min): 13.559577203790347
+as5048
+Time Remaining (min): 13.554085768593682
+atr72sm
+Time Remaining (min): 13.496153817574184
+august160
+Time Remaining (min): 14.375828554232916
+avistar
+Time Remaining (min): 13.533227524823612
+b29root
+Time Remaining (min): 14.181090807914734
+b29tip
+Time Remaining (min): 15.95424114730623
+b540ols
+Time Remaining (min): 13.487130028671688
+b707a
+Time Remaining (min): 13.52460165321827
+b707b
+Time Remaining (min): 13.764931525124444
+b707c
+Time Remaining (min): 13.581749166051546
+b707d
+Time Remaining (min): 13.503167627255122
+b707e
+Time Remaining (min): 13.491788880361451
+b737a
+Time Remaining (min): 13.518702175882128
+b737b
+Time Remaining (min): 13.454596933722495
+b737c
+Time Remaining (min): 13.42407376103931
+b737d
+Time Remaining (min): 13.395999004443487
+bacj
+Time Remaining (min): 13.515054829915364
+bacnlf
+https://m-selig.ae.illinois.edu/ads/coord/bacnlf.dat: 404
+Time Remaining (min): 13.544529067145454
+bacxxx
+Time Remaining (min): 15.043905837668312
+bambino6
+Time Remaining (min): 14.449099668860436
+be50
+Time Remaining (min): 13.923183782895405
+be50sm
+Time Remaining (min): 13.454834409223663
+boe103
+Time Remaining (min): 13.357821971178055
+boe106
+Time Remaining (min): 13.469627689652972
+bqm34
+Time Remaining (min): 13.42010378572676
+bw3
+Time Remaining (min): 13.352263556917508
+c141a
+Time Remaining (min): 13.484146566523446
+c141b
+Time Remaining (min): 13.353027461303604
+c141c
+Time Remaining (min): 13.377684430281322
+c141d
+Time Remaining (min): 13.356445645954874
+c141e
+Time Remaining (min): 13.881857748826345
+c141f
+Time Remaining (min): 13.898416015505791
+c5a
+Time Remaining (min): 13.237432691786024
+c5b
+Time Remaining (min): 13.317284016807873
+c5c
+Time Remaining (min): 13.313129842281342
+c5d
+Time Remaining (min): 13.30153001315064
+c5e
+Time Remaining (min): 13.30852411058214
+cap21c
+Time Remaining (min): 13.370258470376333
+cast102
+Time Remaining (min): 14.205935100052091
+ch10sm
+Time Remaining (min): 13.245594199498495
+chen
+Time Remaining (min): 13.303657293319702
+clarkk
+Time Remaining (min): 13.172552041543854
+clarkv
+Time Remaining (min): 13.331288877460691
+clarkw
+Time Remaining (min): 13.266735770304997
+clarkx
+Time Remaining (min): 13.118649600611793
+clarky
+Time Remaining (min): 14.551465954052077
+clarkyh
+Time Remaining (min): 13.195304208993912
+clarkys
+Time Remaining (min): 13.104208654827541
+clarkysm
+Time Remaining (min): 14.070375686221652
+clarkz
+Time Remaining (min): 13.124047675728798
+clarym15
+Time Remaining (min): 13.248287014828788
+clarym18
+Time Remaining (min): 13.208481328023804
+coanda1
+Time Remaining (min): 13.160172601540884
+coanda2
+Time Remaining (min): 13.116256353590224
+coanda3
+Time Remaining (min): 13.070085353983773
+cootie
+Time Remaining (min): 13.21881579955419
+cp-060-050
+https://m-selig.ae.illinois.edu/ads/coord/cp-060-050.dat: 404
+Time Remaining (min): 13.259677245881822
+cp-080-050
+https://m-selig.ae.illinois.edu/ads/coord/cp-080-050.dat: 404
+Time Remaining (min): 13.126880610982576
+cp-100-050
+https://m-selig.ae.illinois.edu/ads/coord/cp-100-050.dat: 404
+Time Remaining (min): 13.544719642400741
+cp-120-050
+https://m-selig.ae.illinois.edu/ads/coord/cp-120-050.dat: 404
+Time Remaining (min): 13.133983071645101
+cp-140-050
+https://m-selig.ae.illinois.edu/ads/coord/cp-140-050.dat: 404
+Time Remaining (min): 13.127262548605602
+cp-160-050
+https://m-selig.ae.illinois.edu/ads/coord/cp-160-050.dat: 404
+Time Remaining (min): 13.04972918232282
+cp-180-050
+https://m-selig.ae.illinois.edu/ads/coord/cp-180-050.dat: 404
+Time Remaining (min): 13.19460000594457
+cr001sm
+Time Remaining (min): 13.067323195603159
+cr1
+Time Remaining (min): 13.107533693313599
+curtisc72
+Time Remaining (min): 13.025034163726701
+dae11
+Time Remaining (min): 13.059737912813823
+dae21
+Time Remaining (min): 12.99393381178379
+dae31
+Time Remaining (min): 13.088014572196537
+dae51
+Time Remaining (min): 13.011914299594032
+davis-corrected
+https://m-selig.ae.illinois.edu/ads/coord/davis-corrected.dat: 404
+Time Remaining (min): 13.011852935949962
+davis
+Time Remaining (min): 12.973938016427887
+davissm
+Time Remaining (min): 13.037572767999437
+daytonwright6
+Time Remaining (min): 12.949775006373724
+daytonwrightt1
+Time Remaining (min): 12.987421676185395
+dbln526
+Time Remaining (min): 12.952955376108488
+defcnd1
+Time Remaining (min): 12.981897687911987
+defcnd2
+Time Remaining (min): 12.84710481762886
+defcnd3
+Time Remaining (min): 12.944668017493354
+df101
+Time Remaining (min): 12.858459228277207
+df102
+Time Remaining (min): 12.925319523281521
+dfvlrr4
+Time Remaining (min): 12.890583484040366
+dga1138
+Time Remaining (min): 12.885713537534079
+dga1182
+Time Remaining (min): 12.89309512608581
+dh4009sm
+Time Remaining (min): 12.932972019248538
+doa5
+Time Remaining (min): 12.84191990196705
+dormoy
+Time Remaining (min): 12.85494269132614
+drgnfly
+Time Remaining (min): 12.876224941677517
+dsma523a
+Time Remaining (min): 12.953012283643087
+dsma523b
+Time Remaining (min): 12.760421631733577
+du06-w-200
+https://m-selig.ae.illinois.edu/ads/coord/du06-w-200.dat: 404
+Time Remaining (min): 12.873841626114315
+du84132v
+https://m-selig.ae.illinois.edu/ads/coord/du84132v.dat: 404
+Time Remaining (min): 13.113893258571625
+du8608418
+Time Remaining (min): 12.829425401157803
+du861372
+Time Remaining (min): 12.829471649726232
+e1098
+Time Remaining (min): 12.789640706777572
+e1200
+Time Remaining (min): 12.875041295753585
+e1210
+Time Remaining (min): 12.792966328726875
+e1211
+Time Remaining (min): 15.007266019781431
+e1212
+Time Remaining (min): 12.83569037185775
+e1212mod
+Time Remaining (min): 12.712625475062264
+e1213
+Time Remaining (min): 12.904710920651754
+e1214
+Time Remaining (min): 12.72035652961996
+e1230
+Time Remaining (min): 12.670397973722881
+e1233
+Time Remaining (min): 12.743423530459404
+e168
+Time Remaining (min): 12.891783393753899
+e169
+Time Remaining (min): 12.650445914599631
+e171
+Time Remaining (min): 12.649512042601904
+e174
+Time Remaining (min): 12.963456332683563
+e176
+Time Remaining (min): 12.651069006654952
+e178
+Time Remaining (min): 12.726347763339678
+e180
+Time Remaining (min): 12.652716442611482
+e182
+Time Remaining (min): 12.66443687611156
+e184
+Time Remaining (min): 13.275720119476318
+e186
+Time Remaining (min): 12.569183387358983
+e193
+Time Remaining (min): 12.672360771894455
+e195
+Time Remaining (min): 12.624324957529703
+e197
+Time Remaining (min): 12.64609620306227
+e201
+Time Remaining (min): 12.555546161201265
+e203
+Time Remaining (min): 13.513039686282475
+e205
+Time Remaining (min): 13.408363755544027
+e207
+Time Remaining (min): 14.68693155977461
+e209
+Time Remaining (min): 12.61178216636181
+e210
+Time Remaining (min): 12.58031353354454
+e211
+Time Remaining (min): 12.598274322681958
+e212
+Time Remaining (min): 12.602651540438334
+e214
+Time Remaining (min): 12.645772583617104
+e216
+Time Remaining (min): 12.467357495095994
+e220
+Time Remaining (min): 12.487111315131187
+e221
+Time Remaining (min): 12.536194001303778
+e222
+Time Remaining (min): 12.519998657041127
+e224
+Time Remaining (min): 12.547356140613555
+e226
+Time Remaining (min): 12.474390925632584
+e228
+Time Remaining (min): 12.503137316968706
+e230
+Time Remaining (min): 12.510125067830085
+e231
+Time Remaining (min): 12.435403042369419
+e266
+Time Remaining (min): 12.446512851119042
+e297
+Time Remaining (min): 12.407103602091471
+e325
+Time Remaining (min): 12.420347384280628
+e326
+Time Remaining (min): 12.407708748843934
+e327
+Time Remaining (min): 12.379344427585602
+e328
+Time Remaining (min): 12.348030377758874
+e329
+Time Remaining (min): 12.34370067682531
+e330
+Time Remaining (min): 12.44567620754242
+e331
+Time Remaining (min): 12.436121634642284
+e332
+Time Remaining (min): 12.390750079684787
+e333
+Time Remaining (min): 12.288757187128066
+e334
+Time Remaining (min): 12.303465051121181
+e335
+Time Remaining (min): 12.274899479415682
+e336
+Time Remaining (min): 12.31619439125061
+e337
+Time Remaining (min): 12.391305334369342
+e338
+Time Remaining (min): 12.223714723851945
+e339
+Time Remaining (min): 12.267922589182854
+e340
+Time Remaining (min): 12.243062257766724
+e341
+Time Remaining (min): 12.527172925737169
+e342
+Time Remaining (min): 12.599552468458812
+e343
+Time Remaining (min): 12.242770560582478
+e344
+Time Remaining (min): 12.17681155734592
+e360
+Time Remaining (min): 14.375754028558731
+e361
+Time Remaining (min): 12.258913203080494
+e374
+Time Remaining (min): 12.188169164127773
+e376
+Time Remaining (min): 12.215428415934245
+e377
+Time Remaining (min): 12.718085056874488
+e377m
+Time Remaining (min): 12.159860660632452
+e378
+Time Remaining (min): 12.144728924830755
+e379
+Time Remaining (min): 12.158855093850029
+e385
+Time Remaining (min): 12.15512889623642
+e387
+Time Remaining (min): 12.09449548125267
+e392
+Time Remaining (min): 12.17088635596964
+e393
+Time Remaining (min): 14.393115880754259
+e395
+Time Remaining (min): 12.062678029139837
+e396
+Time Remaining (min): 12.109882572624418
+e397
+Time Remaining (min): 12.080577617883682
+e398
+Time Remaining (min): 12.107259174187979
+e399
+Time Remaining (min): 12.179680566324128
+e403
+Time Remaining (min): 12.087134289079243
+e407
+Time Remaining (min): 12.092819488048553
+e417
+Time Remaining (min): 12.038954660627578
+e420
+Time Remaining (min): 12.046915416916212
+e421
+Time Remaining (min): 11.993275952339172
+e422
+Time Remaining (min): 12.015496678153674
+e423
+Time Remaining (min): 12.025669644938574
+e426
+Time Remaining (min): 12.102626728018125
+e428
+Time Remaining (min): 11.9756095442507
+e431
+Time Remaining (min): 12.022221648030811
+e432
+Time Remaining (min): 12.545738363265992
+e433
+Time Remaining (min): 12.001576401789983
+e434
+Time Remaining (min): 11.966402817434735
+e435
+Time Remaining (min): 12.8160606722037
+e471
+Time Remaining (min): 11.90301394197676
+e472
+Time Remaining (min): 11.913921116789181
+e473
+Time Remaining (min): 11.901503992080688
+e474
+Time Remaining (min): 11.989966022968293
+e475
+Time Remaining (min): 11.959720770517984
+e479
+Time Remaining (min): 11.890147373080254
+e485
+Time Remaining (min): 12.13673861357901
+e49
+Time Remaining (min): 11.884349693192377
+e502
+Time Remaining (min): 12.399828708171844
+e520
+Time Remaining (min): 13.76640666855706
+e521
+Time Remaining (min): 11.968397327926423
+e540
+Time Remaining (min): 11.869641906023025
+e541
+Time Remaining (min): 11.917446348402235
+e542
+Time Remaining (min): 11.906212761335903
+e543
+Time Remaining (min): 11.894722580909729
+e544
+Time Remaining (min): 11.945425115691291
+e545
+Time Remaining (min): 11.874547072251637
+e546
+Time Remaining (min): 11.911183883746466
+e547
+Time Remaining (min): 11.934712626536687
+e548
+Time Remaining (min): 11.814782518479559
+e549
+Time Remaining (min): 11.796160952250164
+e550
+Time Remaining (min): 11.819731863008606
+e551
+Time Remaining (min): 11.865881834427515
+e552
+Time Remaining (min): 11.775300100445747
+e553
+Time Remaining (min): 11.831997613112131
+e554
+Time Remaining (min): 11.753654488258892
+e555
+Time Remaining (min): 11.771400411923727
+e556
+Time Remaining (min): 11.821692948871188
+e557
+Time Remaining (min): 12.085001537534925
+e558
+Time Remaining (min): 11.7653718739748
+e559
+Time Remaining (min): 11.747435232665804
+e560
+Time Remaining (min): 11.731247876418962
+e561
+Time Remaining (min): 11.868025600910187
+e562
+Time Remaining (min): 11.671415028307173
+e58
+Time Remaining (min): 11.699712965223524
+e580
+Time Remaining (min): 11.694991338253022
+e582
+Time Remaining (min): 11.670547395282322
+e583
+Time Remaining (min): 12.302767933077282
+e584
+Time Remaining (min): 13.951004020373027
+e585
+Time Remaining (min): 11.597650018003252
+e587
+Time Remaining (min): 13.85410807132721
+e59
+Time Remaining (min): 11.600232937932015
+e591
+Time Remaining (min): 11.602369048860337
+e593
+Time Remaining (min): 12.019753668705622
+e598
+Time Remaining (min): 11.66164243221283
+e603
+Time Remaining (min): 12.484635978274875
+e604
+Time Remaining (min): 11.564166577657064
+e61
+Time Remaining (min): 11.549673440059026
+e62
+Time Remaining (min): 11.571785471174453
+e625
+Time Remaining (min): 11.657960707942644
+e63
+Time Remaining (min): 11.523449671268462
+e635
+Time Remaining (min): 12.286614121993383
+e636
+Time Remaining (min): 11.570613924662272
+e637
+Time Remaining (min): 11.591552516818046
+e638
+Time Remaining (min): 11.456249008576075
+e639
+Time Remaining (min): 11.518642076849938
+e64
+Time Remaining (min): 11.458178238073986
+e642
+Time Remaining (min): 11.46677760846085
+e654
+Time Remaining (min): 11.485025517808067
+e655
+Time Remaining (min): 14.073763653635979
+e656
+Time Remaining (min): 11.577232286665176
+e657
+Time Remaining (min): 11.467578286263677
+e66
+Time Remaining (min): 11.36531005303065
+e662
+Time Remaining (min): 11.500716745853424
+e664
+Time Remaining (min): 11.408346460925209
+e668
+Time Remaining (min): 13.650232921044031
+e67
+Time Remaining (min): 11.37278459072113
+e678
+Time Remaining (min): 11.449314157830344
+e68
+Time Remaining (min): 11.342291164398194
+e682
+Time Remaining (min): 11.367641490366724
+e694
+Time Remaining (min): 12.059645269314448
+e71
+Time Remaining (min): 11.349842948714892
+e715
+Time Remaining (min): 11.346272567907969
+e748
+Time Remaining (min): 13.21351964606179
+e793
+Time Remaining (min): 11.32647075255712
+e817
+Time Remaining (min): 11.357425511545605
+e818
+Time Remaining (min): 11.228154293696086
+e836
+Time Remaining (min): 11.289292111992836
+e837
+Time Remaining (min): 11.386222416824765
+e838
+Time Remaining (min): 11.360970518655247
+e850
+Time Remaining (min): 14.101258969306945
+e851
+Time Remaining (min): 11.32145934998989
+e852
+Time Remaining (min): 11.228218558099535
+e853
+Time Remaining (min): 11.282720810174942
+e854
+Time Remaining (min): 11.263944837782118
+e855
+Time Remaining (min): 11.21407151222229
+e856
+Time Remaining (min): 12.119316709041595
+e857
+Time Remaining (min): 11.201723071932793
+e858
+Time Remaining (min): 11.277853218714396
+e862
+Time Remaining (min): 11.159565026561419
+e863
+Time Remaining (min): 11.262551030185488
+e864
+Time Remaining (min): 11.219115157590972
+e874
+Time Remaining (min): 11.13337082862854
+e904
+Time Remaining (min): 11.318443751335144
+e908
+Time Remaining (min): 11.206298444006178
+ea61009
+Time Remaining (min): 11.082337555289268
+ea61012
+Time Remaining (min): 11.098866185877059
+ea81006
+Time Remaining (min): 11.313248537977536
+ebambino7
+Time Remaining (min): 11.122464124361674
+ec863914
+Time Remaining (min): 11.090834958685768
+eh0009
+Time Remaining (min): 11.040000422795613
+eh1070
+Time Remaining (min): 11.016057459513346
+eh1090
+Time Remaining (min): 11.106495488352246
+eh1590
+Time Remaining (min): 13.044696370429463
+eh2010
+Time Remaining (min): 11.125774085521698
+eh2012
+Time Remaining (min): 11.125204173061583
+eh2070
+Time Remaining (min): 11.082415492004818
+eh2510
+Time Remaining (min): 10.991255115469297
+eh3012
+Time Remaining (min): 11.038205729590523
+eiffel10
+Time Remaining (min): 11.017740887072351
+eiffel371
+Time Remaining (min): 10.980968022346497
+eiffel385
+Time Remaining (min): 11.022752426399125
+eiffel428
+Time Remaining (min): 11.048553982045915
+eiffel430
+Time Remaining (min): 10.977500280737877
+esa40
+Time Remaining (min): 10.92968922522333
+falcon
+Time Remaining (min): 10.95030209256543
+fauvel
+Time Remaining (min): 10.908395195007325
+fg1
+Time Remaining (min): 10.952347788876958
+fg2
+Time Remaining (min): 10.987908238172531
+fg3
+Time Remaining (min): 11.087034394343695
+fg4
+Time Remaining (min): 10.90235017935435
+fx049915
+Time Remaining (min): 10.909696792562803
+fx05188
+Time Remaining (min): 10.938492465019227
+fx05191
+Time Remaining (min): 10.918367581566175
+fx057816
+Time Remaining (min): 10.933308945761787
+fx05h126
+Time Remaining (min): 10.897074070572852
+fx082512
+Time Remaining (min): 10.824624826510748
+fx08s176
+Time Remaining (min): 10.844108670618798
+fx2
+Time Remaining (min): 10.840878613789876
+fx3
+Time Remaining (min): 10.882533351580301
+fx38153
+Time Remaining (min): 10.886117160982556
+fx60100
+Time Remaining (min): 10.788790747523308
+fx601001
+Time Remaining (min): 10.752384652031793
+fx60100sm
+Time Remaining (min): 10.77206762333711
+fx60126
+Time Remaining (min): 10.948151419560114
+fx601261
+Time Remaining (min): 10.791034631927808
+fx60157
+Time Remaining (min): 10.774568871657054
+fx60160
+Time Remaining (min): 10.754320739706356
+fx60177
+Time Remaining (min): 10.803457627693811
+fx61140
+Time Remaining (min): 10.78168092502488
+fx61147
+Time Remaining (min): 10.745910930633546
+fx61163
+Time Remaining (min): 10.776615160372522
+fx61168
+Time Remaining (min): 10.731575284401575
+fx61184
+Time Remaining (min): 13.458847139279047
+fx62k131
+Time Remaining (min): 10.742582910590702
+fx62k153
+Time Remaining (min): 10.70976483258936
+fx63100
+Time Remaining (min): 10.741964997847875
+fx63110
+Time Remaining (min): 10.756302470299932
+fx63120
+Time Remaining (min): 11.469602627224392
+fx63137
+Time Remaining (min): 10.6607725918293
+fx63137sm
+Time Remaining (min): 10.594833058781093
+fx63143
+Time Remaining (min): 10.63474315404892
+fx63145
+Time Remaining (min): 10.628189627329508
+fx63147
+Time Remaining (min): 10.678626341621081
+fx63158
+Time Remaining (min): 10.591271079248852
+fx6617a2
+Time Remaining (min): 11.352274804313977
+fx6617ai
+Time Remaining (min): 10.650382211473254
+fx66182
+Time Remaining (min): 10.589792029394044
+fx66196v
+Time Remaining (min): 10.755942159891129
+fx66a175
+Time Remaining (min): 10.641965496871206
+fx66h60
+Time Remaining (min): 10.585154977109697
+fx66h80
+Time Remaining (min): 10.63153108259042
+fx66s161
+Time Remaining (min): 11.886317680941687
+fx66s171
+Time Remaining (min): 10.929487431711621
+fx66s196
+Time Remaining (min): 10.579395294189453
+fx67k150
+Time Remaining (min): 10.612630501720641
+fx67k170
+Time Remaining (min): 10.48756461540858
+fx68h120
+Time Remaining (min): 10.49321490228176
+fx69274
+Time Remaining (min): 10.4739951716529
+fx69h083
+Time Remaining (min): 10.683203847871887
+fx69h098
+Time Remaining (min): 10.488920060793559
+fx69pr281
+Time Remaining (min): 10.610389654835066
+fx71089a
+Time Remaining (min): 10.484371940294901
+fx71120
+Time Remaining (min): 10.46529907186826
+fx711520
+Time Remaining (min): 11.576569315459993
+fx711525
+Time Remaining (min): 10.452611189418368
+fx711530
+Time Remaining (min): 10.412430667877198
+fx71l150
+Time Remaining (min): 10.441351756122376
+fx72150a
+Time Remaining (min): 10.53180682990286
+fx72150b
+Time Remaining (min): 10.444119229912758
+fx72ls160
+Time Remaining (min): 10.37737315495809
+fx73170
+Time Remaining (min): 10.376990043123563
+fx73170a
+Time Remaining (min): 10.431511416037877
+fx73cl1152
+Time Remaining (min): 10.463500803377894
+fx73cl2152
+Time Remaining (min): 10.350822077857124
+fx73cl3152
+Time Remaining (min): 10.26507140994072
+fx73k170
+Time Remaining (min): 10.31912116408348
+fx74080
+Time Remaining (min): 10.293018675512737
+fx74130wp1
+Time Remaining (min): 10.344951725006103
+fx74130wp2
+Time Remaining (min): 10.393059584829542
+fx74130wp2mod
+Time Remaining (min): 10.321366392903858
+fx74cl5140
+Time Remaining (min): 10.281801520784695
+fx74cl6140
+Time Remaining (min): 10.268048367235396
+fx74modsm
+Time Remaining (min): 10.349764747752083
+fx75141
+Time Remaining (min): 10.291181862354279
+fx75193
+Time Remaining (min): 11.045736411876149
+fx75vg166
+Time Remaining (min): 10.343162298202515
+fx76100
+Time Remaining (min): 10.606653582056364
+fx76120
+Time Remaining (min): 10.201782152387832
+fx76mp120
+Time Remaining (min): 10.221868640846676
+fx76mp140
+Time Remaining (min): 10.28578950961431
+fx76mp160
+Time Remaining (min): 10.219085956613222
+fx77080
+Time Remaining (min): 10.18364379869567
+fx77w121
+Time Remaining (min): 10.203064700961113
+fx77w153
+Time Remaining (min): 10.154363128874037
+fx77w258
+Time Remaining (min): 10.184851274556584
+fx77w270
+Time Remaining (min): 10.233314867814382
+fx77w270s
+Time Remaining (min): 10.145366625322236
+fx77w343
+Time Remaining (min): 10.259395282798343
+fx78k140
+Time Remaining (min): 10.21124561627706
+fx78k140a20
+Time Remaining (min): 10.169464932547676
+fx78k150
+Time Remaining (min): 10.302343453301324
+fx78k161
+Time Remaining (min): 10.227291107177734
+fx78pk188
+Time Remaining (min): 10.138522790537941
+fx79k144
+Time Remaining (min): 10.222130980756548
+fx79l100
+Time Remaining (min): 10.132461342215539
+fx79l120
+Time Remaining (min): 10.102498783005608
+fx79w151a
+Time Remaining (min): 10.144902947213915
+fx79w470a
+http://airfoiltools.com/polar/csv?polar=xf-fx79w470a-il-50000: 404
+http://airfoiltools.com/polar/csv?polar=xf-fx79w470a-il-100000: 404
+http://airfoiltools.com/polar/csv?polar=xf-fx79w470a-il-200000: 404
+http://airfoiltools.com/polar/csv?polar=xf-fx79w470a-il-500000: 404
+http://airfoiltools.com/polar/csv?polar=xf-fx79w470a-il-1000000: 404
+Time Remaining (min): 10.097639749447504
+fx79w660a
+Time Remaining (min): 10.056345476044548
+fx80080
+Time Remaining (min): 10.490797932942709
+fx83w108
+Time Remaining (min): 10.029331195354462
+fx83w160
+Time Remaining (min): 10.13304512500763
+fx83w227
+Time Remaining (min): 10.078746266828643
+fx84w097
+Time Remaining (min): 10.022300561269125
+fx84w127
+Time Remaining (min): 9.980429063571824
+fx84w140
+Time Remaining (min): 10.57754905819893
+fx84w150
+Time Remaining (min): 10.01443721652031
+fx84w175
+Time Remaining (min): 10.343366405698989
+fx84w218
+Time Remaining (min): 9.974664001001251
+fxl142k
+Time Remaining (min): 9.983145046234132
+fxlv152
+Time Remaining (min): 9.930114069249894
+fxm2
+Time Remaining (min): 10.731039362483555
+fxs02196
+Time Remaining (min): 9.91055418352286
+fxs03182
+Time Remaining (min): 10.387040260765287
+fxs21158
+Time Remaining (min): 9.985187908013662
+geminism
+Time Remaining (min): 9.88736834526062
+giiia
+Time Remaining (min): 9.866673514578078
+giiib
+Time Remaining (min): 9.89445452425215
+giiic
+Time Remaining (min): 9.913439303636551
+giiid
+Time Remaining (min): 9.881597612963782
+giiie
+Time Remaining (min): 9.847522935271263
+giiif
+Time Remaining (min): 10.410858656962713
+giiig
+Time Remaining (min): 9.854242519868745
+giiih
+Time Remaining (min): 9.833531697591146
+giiii
+Time Remaining (min): 9.805055587490399
+giiij
+Time Remaining (min): 9.920362086428536
+giiik
+Time Remaining (min): 9.922559281521373
+giiil
+Time Remaining (min): 9.78265290260315
+giiim
+Time Remaining (min): 9.800282824370596
+giiin
+Time Remaining (min): 9.747730480300056
+glennmartin2
+Time Remaining (min): 9.868033996224403
+glennmartin3
+Time Remaining (min): 9.752785274717542
+glennmartin4
+Time Remaining (min): 9.726139961679776
+gm15sm
+Time Remaining (min): 9.811660061279932
+goe05k
+Time Remaining (min): 9.739273634552955
+goe06k
+Time Remaining (min): 9.745369385348425
+goe07k
+Time Remaining (min): 9.69592733681202
+goe08k
+Time Remaining (min): 9.684842620955573
+goe09k
+Time Remaining (min): 9.89670698510276
+goe100
+Time Remaining (min): 9.648438612620035
+goe101
+Time Remaining (min): 9.67827031413714
+goe10k
+Time Remaining (min): 9.828046084774865
+goe113
+Time Remaining (min): 10.909550510843594
+goe114
+Time Remaining (min): 9.716547396447924
+goe115
+Time Remaining (min): 9.6931555731429
+goe116
+Time Remaining (min): 9.854460030794144
+goe117
+Time Remaining (min): 9.59117601480749
+goe118
+Time Remaining (min): 9.622305064731174
+goe11k
+Time Remaining (min): 9.625538359085718
+goe121
+Time Remaining (min): 10.208692734771304
+goe122
+Time Remaining (min): 9.757614807618989
+goe123
+Time Remaining (min): 9.604815236727397
+goe124
+Time Remaining (min): 9.64511409468121
+goe12k
+Time Remaining (min): 9.51438573996226
+goe133
+Time Remaining (min): 9.57817234992981
+goe134
+Time Remaining (min): 9.508077642652724
+goe137
+Time Remaining (min): 9.536409781376522
+goe13k
+Time Remaining (min): 9.711109892527263
+goe14
+Time Remaining (min): 9.511949436532127
+goe140
+Time Remaining (min): 9.542277247375912
+goe142
+Time Remaining (min): 9.493862536549567
+goe143
+Time Remaining (min): 9.51349255906211
+goe144
+Time Remaining (min): 9.470088279909557
+goe147
+Time Remaining (min): 9.476243734359741
+goe14k
+Time Remaining (min): 9.468909697731336
+goe15
+Time Remaining (min): 9.474324873420928
+goe155
+Time Remaining (min): 9.422665759921074
+goe15k
+Time Remaining (min): 10.247975096437667
+goe164
+Time Remaining (min): 10.042102038860321
+goe165
+Time Remaining (min): 9.459195470809936
+goe167
+Time Remaining (min): 9.808619294563929
+goe16k
+Time Remaining (min): 9.406253804100885
+goe173
+Time Remaining (min): 9.441952127218247
+goe174
+Time Remaining (min): 9.581695351335737
+goe176
+Time Remaining (min): 9.342347352703412
+goe177
+Time Remaining (min): 9.347420692443848
+goe178
+Time Remaining (min): 10.034108254975743
+goe180
+Time Remaining (min): 9.395045998361375
+goe182
+Time Remaining (min): 9.771646117170652
+goe184
+Time Remaining (min): 9.316774172253078
+goe187
+Time Remaining (min): 10.288772332668305
+goe188
+Time Remaining (min): 10.279258620738982
+goe190
+Time Remaining (min): 9.33062697119183
+goe195
+Time Remaining (min): 9.373294353485107
+goe198
+Time Remaining (min): 9.26117672920227
+goe199
+Time Remaining (min): 9.289551746845245
+goe207
+Time Remaining (min): 9.27142823934555
+goe210
+Time Remaining (min): 9.255347410837809
+goe217
+Time Remaining (min): 9.738000515434477
+goe222
+Time Remaining (min): 9.279676807589
+goe223
+Time Remaining (min): 9.324808886647224
+goe225
+Time Remaining (min): 9.182223019335005
+goe226
+Time Remaining (min): 9.26712067657047
+goe227
+Time Remaining (min): 9.275380223989487
+goe228
+Time Remaining (min): 9.240826063023674
+goe229
+Time Remaining (min): 9.26126053598192
+goe233
+Time Remaining (min): 9.306723317503929
+goe234
+Time Remaining (min): 9.267042497793833
+goe235
+Time Remaining (min): 9.293939453032282
+goe238
+Time Remaining (min): 9.217590701580047
+goe239
+Time Remaining (min): 9.1735847208235
+goe240
+Time Remaining (min): 9.2176622569561
+goe241
+Time Remaining (min): 9.28362655142943
+goe242
+Time Remaining (min): 9.19417921702067
+goe243
+Time Remaining (min): 9.401479227675331
+goe244
+Time Remaining (min): 10.212296617031097
+goe255
+Time Remaining (min): 9.114714519845116
+goe256
+Time Remaining (min): 9.115906284915077
+goe257
+Time Remaining (min): 9.05931767821312
+goe264
+Time Remaining (min): 9.147206206454172
+goe265
+Time Remaining (min): 9.092817662159602
+goe269
+Time Remaining (min): 9.133602873484294
+goe274
+Time Remaining (min): 9.684755811426374
+goe275
+Time Remaining (min): 9.171936992141935
+goe276
+Time Remaining (min): 9.104466168085734
+goe277
+Time Remaining (min): 9.167556871308221
+goe278
+Time Remaining (min): 9.068076006240315
+goe279
+Time Remaining (min): 9.03348845243454
+goe280
+Time Remaining (min): 9.073244035243988
+goe281
+Time Remaining (min): 8.996437242296007
+goe282
+Time Remaining (min): 9.00837182899316
+goe284
+Time Remaining (min): 9.151137050655153
+goe285
+Time Remaining (min): 8.982213218675719
+goe286
+Time Remaining (min): 8.982095837593079
+goe287
+Time Remaining (min): 9.274183642864227
+goe288
+Time Remaining (min): 8.986769729852677
+goe289
+Time Remaining (min): 9.058983984589577
+goe290
+Time Remaining (min): 8.887124085426331
+goe298
+Time Remaining (min): 9.03727376461029
+goe29b
+Time Remaining (min): 8.910057467222213
+goe300
+Time Remaining (min): 8.892797506517834
+goe301
+Time Remaining (min): 9.025446546077728
+goe303
+Time Remaining (min): 8.949675013621649
+goe304
+Time Remaining (min): 9.860773222313988
+goe308
+Time Remaining (min): 8.856699500812425
+goe309
+Time Remaining (min): 8.904271554946899
+goe310
+Time Remaining (min): 8.820542320277955
+goe311
+Time Remaining (min): 8.930743910868962
+goe314
+Time Remaining (min): 9.175043061375618
+goe315
+Time Remaining (min): 8.839610385894776
+goe316
+Time Remaining (min): 8.928423081503974
+goe318
+Time Remaining (min): 8.879015650351842
+goe319
+Time Remaining (min): 8.896004224816958
+goe320
+Time Remaining (min): 8.771836095386082
+goe321
+Time Remaining (min): 8.815467202663422
+goe322
+Time Remaining (min): 8.745934058560266
+goe323
+Time Remaining (min): 8.735492478145494
+goe324
+Time Remaining (min): 8.740518506368002
+goe325
+Time Remaining (min): 8.767903779943785
+goe326
+Time Remaining (min): 8.803111033307182
+goe328
+Time Remaining (min): 8.762863425413768
+goe329
+Time Remaining (min): 8.869793298509386
+goe330
+Time Remaining (min): 8.800902999109692
+goe331
+Time Remaining (min): 8.737371683120728
+goe332
+Time Remaining (min): 8.699552975098293
+goe335
+Time Remaining (min): 8.664732460180918
+goe336
+Time Remaining (min): 8.675813618302346
+goe342
+Time Remaining (min): 8.747644139660729
+goe344
+Time Remaining (min): 8.638413411047724
+goe346
+Time Remaining (min): 8.619492920239766
+goe358
+Time Remaining (min): 8.64620481133461
+goe359
+Time Remaining (min): 8.72370343009631
+goe360
+Time Remaining (min): 8.601147675514222
+goe361
+Time Remaining (min): 8.599896013736725
+goe362
+Time Remaining (min): 8.895502873924043
+goe363
+Time Remaining (min): 8.693356780211131
+goe364
+Time Remaining (min): 8.662498542666436
+goe365
+Time Remaining (min): 8.587260278066
+goe366
+Time Remaining (min): 9.003124410907427
+goe367
+Time Remaining (min): 9.162793820434146
+goe368
+Time Remaining (min): 8.53790885243151
+goe369
+Time Remaining (min): 8.57594929933548
+goe370
+Time Remaining (min): 8.489965554740694
+goe371
+Time Remaining (min): 8.50395644042227
+goe372
+Time Remaining (min): 8.539317993323008
+goe373
+Time Remaining (min): 9.522947703467475
+goe374
+Time Remaining (min): 8.527834598223368
+goe375
+Time Remaining (min): 8.459013936916987
+goe376
+Time Remaining (min): 8.87301132745213
+goe377
+Time Remaining (min): 9.070088440842099
+goe379
+Time Remaining (min): 10.676943030953407
+goe380
+Time Remaining (min): 8.4978270775742
+goe381
+Time Remaining (min): 8.498542482323117
+goe382
+Time Remaining (min): 8.534752209981283
+goe383
+Time Remaining (min): 8.528499181403054
+goe384
+Time Remaining (min): 8.492459495862326
+goe385
+Time Remaining (min): 8.467260840535165
+goe386
+Time Remaining (min): 8.711819542778862
+goe387
+Time Remaining (min): 8.997971657249662
+goe388
+Time Remaining (min): 8.6258081138134
+goe389
+Time Remaining (min): 8.3535743167003
+goe390
+Time Remaining (min): 8.413301465246413
+goe391
+Time Remaining (min): 8.485401812195779
+goe392
+Time Remaining (min): 8.37479622827636
+goe393
+Time Remaining (min): 8.452076061897808
+goe394
+Time Remaining (min): 8.371552244822185
+goe395
+Time Remaining (min): 8.307181219591035
+goe396
+Time Remaining (min): 8.350183049837748
+goe397
+Time Remaining (min): 8.37191641330719
+goe398
+Time Remaining (min): 8.346315685908
+goe399
+Time Remaining (min): 8.292970965968237
+goe400
+Time Remaining (min): 8.358595031499863
+goe401
+Time Remaining (min): 8.252761890159713
+goe402
+Time Remaining (min): 8.428498076068031
+goe403
+Time Remaining (min): 8.286001006762186
+goe404
+Time Remaining (min): 8.263981852928797
+goe405
+Time Remaining (min): 8.272818234562873
+goe406
+Time Remaining (min): 8.267749118804932
+goe407
+Time Remaining (min): 9.83655165301429
+goe408
+Time Remaining (min): 8.295688147677316
+goe409
+Time Remaining (min): 8.243125253915787
+goe410
+Time Remaining (min): 8.882087976402707
+goe411
+Time Remaining (min): 8.23121917280886
+goe412
+Time Remaining (min): 8.158529728651047
+goe413
+Time Remaining (min): 8.478785480062166
+goe414
+Time Remaining (min): 9.757068263159859
+goe415
+Time Remaining (min): 8.132012364268302
+goe416a
+Time Remaining (min): 8.325772760311763
+goe417
+Time Remaining (min): 8.127789853347672
+goe417a
+Time Remaining (min): 8.078452169895172
+goe418
+Time Remaining (min): 8.08721933596664
+goe419
+Time Remaining (min): 8.079564193884531
+goe420
+Time Remaining (min): 8.099576918284098
+goe421
+Time Remaining (min): 8.144922137260437
+goe422
+Time Remaining (min): 8.646153558956252
+goe423
+Time Remaining (min): 8.098962020874023
+goe424
+Time Remaining (min): 8.019665812452635
+goe425
+Time Remaining (min): 9.773739094204373
+goe426
+Time Remaining (min): 8.008181502421698
+goe427
+Time Remaining (min): 8.023596118556128
+goe428
+Time Remaining (min): 8.021748436490695
+goe429
+Time Remaining (min): 8.072854312260946
+goe430
+Time Remaining (min): 7.970241169465913
+goe431
+Time Remaining (min): 7.989524530039893
+goe432
+Time Remaining (min): 7.969210380315781
+goe433
+Time Remaining (min): 8.287616047594282
+goe434
+Time Remaining (min): 7.9916223420037165
+goe435
+Time Remaining (min): 8.42341324488322
+goe436
+Time Remaining (min): 7.908220421936777
+goe437
+Time Remaining (min): 7.9586927466922335
+goe438
+Time Remaining (min): 7.9299340079228084
+goe439
+Time Remaining (min): 9.361321418815189
+goe440
+Time Remaining (min): 7.883712347679668
+goe441
+Time Remaining (min): 7.882486283779144
+goe442
+Time Remaining (min): 8.004379961887995
+goe443
+Time Remaining (min): 7.91695280207528
+goe444
+Time Remaining (min): 7.880750447511673
+goe445
+Time Remaining (min): 7.813489320543077
+goe446
+Time Remaining (min): 7.9181745400031405
+goe447
+Time Remaining (min): 7.867135125398636
+goe448
+Time Remaining (min): 7.901070522930887
+goe449
+Time Remaining (min): 7.894281792640686
+goe450
+Time Remaining (min): 7.845757564902305
+goe451
+http://airfoiltools.com/polar/csv?polar=xf-goe451-il-1000000: 404
+Time Remaining (min): 7.841499404774772
+goe456
+Time Remaining (min): 7.766775416665607
+goe457
+Time Remaining (min): 7.778108064333598
+goe458
+Time Remaining (min): 7.760731234484249
+goe459
+Time Remaining (min): 7.782742304934396
+goe460
+Time Remaining (min): 11.144104421138763
+goe462
+Time Remaining (min): 7.7808365835083855
+goe464
+Time Remaining (min): 7.8188449482123055
+goe474
+Time Remaining (min): 9.809255760908126
+goe476
+Time Remaining (min): 10.78284769985411
+goe477
+Time Remaining (min): 13.674955632951525
+goe478
+Time Remaining (min): 7.727839396397273
+goe479
+Time Remaining (min): 7.774771528111564
+goe480
+Time Remaining (min): 7.741873052716255
+goe481
+Time Remaining (min): 7.710851375261942
+goe481a
+Time Remaining (min): 7.71283217602306
+goe482
+Time Remaining (min): 7.653124117851258
+goe483
+Time Remaining (min): 7.688748499751091
+goe484
+Time Remaining (min): 7.69299365679423
+goe488
+Time Remaining (min): 7.681832904948129
+goe490
+Time Remaining (min): 7.70502437154452
+goe491
+Time Remaining (min): 7.68641619152493
+goe492
+Time Remaining (min): 10.17908309035831
+goe493
+Time Remaining (min): 7.630645274122556
+goe494
+Time Remaining (min): 7.647319946024153
+goe495
+Time Remaining (min): 7.867603987455368
+goe496
+Time Remaining (min): 10.334296703338623
+goe497
+Time Remaining (min): 7.759412512845463
+goe498
+Time Remaining (min): 7.5656445615821415
+goe499
+Time Remaining (min): 7.600752811630567
+goe500
+Time Remaining (min): 7.535214920838674
+goe501
+Time Remaining (min): 7.521016414960226
+goe502
+Time Remaining (min): 7.534355674187342
+goe503
+Time Remaining (min): 7.567999280823601
+goe504
+Time Remaining (min): 7.547623427708944
+goe505
+Time Remaining (min): 7.4893228858709335
+goe506
+Time Remaining (min): 7.490922923882803
+goe507
+Time Remaining (min): 7.458106114466985
+goe508
+Time Remaining (min): 7.576046677430471
+goe509
+Time Remaining (min): 7.478761486543549
+goe510
+Time Remaining (min): 7.431046764055888
+goe511
+Time Remaining (min): 7.423524201909701
+goe512
+Time Remaining (min): 7.467802630530463
+goe513
+Time Remaining (min): 7.644383281469345
+goe514
+Time Remaining (min): 7.526214498281479
+goe515
+Time Remaining (min): 7.385916084051132
+goe517
+Time Remaining (min): 7.452895030710432
+goe518
+Time Remaining (min): 7.410448975364367
+goe522
+Time Remaining (min): 7.4745964507261915
+goe523
+Time Remaining (min): 7.386311439673106
+goe525
+Time Remaining (min): 7.356375813484192
+goe526
+Time Remaining (min): 7.410608396265242
+goe527
+Time Remaining (min): 7.322793248626921
+goe528
+Time Remaining (min): 7.412893983721733
+goe529
+Time Remaining (min): 7.376725663079156
+goe530
+Time Remaining (min): 7.447581744856304
+goe531
+Time Remaining (min): 7.371768750747045
+goe532
+Time Remaining (min): 7.311016339063644
+goe533
+Time Remaining (min): 7.471141539679634
+goe534
+Time Remaining (min): 7.3837510248025255
+goe535
+Time Remaining (min): 9.331179310878118
+goe54
+Time Remaining (min): 7.327200431956185
+goe546
+Time Remaining (min): 7.239038419723511
+goe547
+Time Remaining (min): 7.284101165003246
+goe548
+Time Remaining (min): 7.241163591543834
+goe549
+Time Remaining (min): 7.232076873381932
+goe55
+Time Remaining (min): 7.2266322056452434
+goe550
+Time Remaining (min): 7.265507958332697
+goe553
+Time Remaining (min): 7.423777661720911
+goe559
+Time Remaining (min): 7.179804935720232
+goe561
+Time Remaining (min): 7.205441428555383
+goe562
+Time Remaining (min): 7.208719500899315
+goe563
+Time Remaining (min): 7.164858671029409
+goe564
+Time Remaining (min): 7.190572277704875
+goe565
+Time Remaining (min): 7.152776177724203
+goe566
+Time Remaining (min): 7.106444779369566
+goe567
+Time Remaining (min): 8.480255091190338
+goe57
+Time Remaining (min): 7.112523944179217
+goe570
+Time Remaining (min): 7.083594694402483
+goe571
+Time Remaining (min): 7.159185922145843
+goe572
+Time Remaining (min): 7.115949064493179
+goe573
+Time Remaining (min): 7.151528362433115
+goe574
+Time Remaining (min): 7.068233791987101
+goe575
+Time Remaining (min): 7.094217000404994
+goe584
+Time Remaining (min): 7.070927271578047
+goe585
+Time Remaining (min): 7.379535486300786
+goe587
+Time Remaining (min): 8.399883834520976
+goe590
+Time Remaining (min): 7.0566602028078504
+goe591
+Time Remaining (min): 7.060126346349716
+goe592
+Time Remaining (min): 7.054341369867325
+goe593
+Time Remaining (min): 6.989832189348009
+goe595
+Time Remaining (min): 7.072329731782277
+goe596
+Time Remaining (min): 7.0330900847911835
+goe598
+Time Remaining (min): 7.027913980682691
+goe599
+Time Remaining (min): 6.965269594722324
+goe600
+Time Remaining (min): 7.143630350629489
+goe601
+Time Remaining (min): 6.991014444828034
+goe602
+Time Remaining (min): 6.945295567644967
+goe602m
+Time Remaining (min): 6.932010960578919
+goe604
+Time Remaining (min): 6.960382185048527
+goe610b
+Time Remaining (min): 7.037143362892999
+goe610bm
+Time Remaining (min): 6.901102528969447
+goe611
+Time Remaining (min): 6.893398584259881
+goe612
+Time Remaining (min): 6.9397296915451685
+goe613
+Time Remaining (min): 6.944067527850469
+goe614
+Time Remaining (min): 6.9542541272110405
+goe615
+Time Remaining (min): 7.401750405629476
+goe617
+Time Remaining (min): 6.894529259204864
+goe619
+Time Remaining (min): 6.906531837913725
+goe620
+Time Remaining (min): 6.850679078035885
+goe621
+Time Remaining (min): 6.8193137645721436
+goe622
+Time Remaining (min): 6.845173742373785
+goe623
+Time Remaining (min): 6.80383575492435
+goe624
+Time Remaining (min): 6.804858093460401
+goe625
+Time Remaining (min): 6.832959153917101
+goe626
+Time Remaining (min): 6.802550587389204
+goe627
+Time Remaining (min): 6.7680485308170315
+goe628
+Time Remaining (min): 6.808983225623766
+goe629
+Time Remaining (min): 6.762809936205546
+goe63
+Time Remaining (min): 6.835780343413353
+goe630
+Time Remaining (min): 6.700381646553676
+goe632
+Time Remaining (min): 6.987716059883436
+goe633
+Time Remaining (min): 7.86414311726888
+goe645
+Time Remaining (min): 7.11725594566928
+goe646
+Time Remaining (min): 6.73678796754943
+goe647
+Time Remaining (min): 6.708706960082054
+goe648
+Time Remaining (min): 6.725793349742889
+goe650
+Time Remaining (min): 6.670657881763247
+goe652
+Time Remaining (min): 6.666067997614543
+goe654
+Time Remaining (min): 6.680487054917547
+goe655
+Time Remaining (min): 6.694068339135912
+goe670
+Time Remaining (min): 6.715990579128265
+goe673
+Time Remaining (min): 6.726684603426191
+goe675
+Time Remaining (min): 6.676893881294462
+goe676
+Time Remaining (min): 6.6830209493637085
+goe677
+Time Remaining (min): 6.618432607915667
+goe679
+Time Remaining (min): 6.638156142499712
+goe681
+Time Remaining (min): 6.600686147809029
+goe682
+Time Remaining (min): 6.636128420299954
+goe683
+Time Remaining (min): 6.676609825756815
+goe685
+Time Remaining (min): 7.1684156854947405
+goe692
+Time Remaining (min): 6.622061781750785
+goe693
+Time Remaining (min): 6.590519008371565
+goe701
+Time Remaining (min): 6.5739351361989975
+goe702
+Time Remaining (min): 6.5630549576547415
+goe703
+Time Remaining (min): 6.565798769394557
+goe704
+Time Remaining (min): 6.542558431625366
+goe711
+Time Remaining (min): 6.536936796042654
+goe723
+Time Remaining (min): 6.60901873641544
+goe735
+Time Remaining (min): 6.511159771680832
+goe738
+Time Remaining (min): 6.495434436533186
+goe741
+Time Remaining (min): 6.492205381062296
+goe744
+Time Remaining (min): 6.546503776311875
+goe746
+Time Remaining (min): 6.465876013040543
+goe758
+Time Remaining (min): 6.867042424943712
+goe765
+Time Remaining (min): 6.843801498413086
+goe766
+Time Remaining (min): 6.471209773752425
+goe767
+Time Remaining (min): 6.464169175757302
+goe769
+Time Remaining (min): 6.430560211340587
+goe770
+Time Remaining (min): 6.427771630220943
+goe775
+Time Remaining (min): 6.434999644756317
+goe776
+Time Remaining (min): 6.905730798840523
+goe777
+Time Remaining (min): 6.406178424093459
+goe780
+Time Remaining (min): 6.642354877127541
+goe79
+Time Remaining (min): 6.397899069388708
+goe795
+Time Remaining (min): 6.345333721902636
+goe795sm
+Time Remaining (min): 6.316235257519616
+goe796
+Time Remaining (min): 6.396910246213277
+goe797
+Time Remaining (min): 6.374525995386971
+goe798
+Time Remaining (min): 6.338372107015716
+goe801
+Time Remaining (min): 7.495311737060547
+goe802
+Time Remaining (min): 6.339360043737623
+goe802a
+Time Remaining (min): 6.2994816965527
+goe802b
+Time Remaining (min): 6.292587027947108
+goe803h
+Time Remaining (min): 6.339012410905626
+goe804
+Time Remaining (min): 6.2986870970990925
+goe81
+Time Remaining (min): 6.320314077536265
+goe92
+Time Remaining (min): 6.243109314640363
+griffith30symsuction
+https://m-selig.ae.illinois.edu/ads/coord/griffith30symsuction.dat: 404
+Time Remaining (min): 6.430902666515774
+gs1
+Time Remaining (min): 6.308504346013069
+gu255118
+Time Remaining (min): 6.21092826128006
+hh02
+Time Remaining (min): 6.22956757346789
+hobie
+Time Remaining (min): 6.195703053474427
+hobiesm
+Time Remaining (min): 6.209865012102657
+hor04
+https://m-selig.ae.illinois.edu/ads/coord/hor04.dat: 404
+Time Remaining (min): 6.218925539652506
+hor07
+https://m-selig.ae.illinois.edu/ads/coord/hor07.dat: 404
+Time Remaining (min): 6.177631149689357
+hor12
+https://m-selig.ae.illinois.edu/ads/coord/hor12.dat: 404
+Time Remaining (min): 6.398715464274089
+hor20
+https://m-selig.ae.illinois.edu/ads/coord/hor20.dat: 404
+Time Remaining (min): 6.1542289574941
+hq010
+Time Remaining (min): 6.134468990564346
+hq07
+Time Remaining (min): 6.380027159717348
+hq09
+Time Remaining (min): 6.15582138299942
+hq1010
+Time Remaining (min): 6.107259170214335
+hq1012
+Time Remaining (min): 6.190997417105569
+hq108
+Time Remaining (min): 6.128794660170873
+hq109
+Time Remaining (min): 6.473015586535136
+hq1510
+Time Remaining (min): 6.088349547651079
+hq1511
+Time Remaining (min): 6.23101555109024
+hq1512
+Time Remaining (min): 6.080817142128945
+hq158
+Time Remaining (min): 6.071622488233778
+hq1585
+Time Remaining (min): 6.071034574508667
+hq159
+Time Remaining (min): 6.025520741939545
+hq159b
+Time Remaining (min): 6.03997783627775
+hq17
+https://m-selig.ae.illinois.edu/ads/coord/hq17.dat: 404
+Time Remaining (min): 6.045032829708523
+hq2010
+Time Remaining (min): 6.029374622305235
+hq2012
+Time Remaining (min): 6.177822665373484
+hq208
+Time Remaining (min): 6.025435894727707
+hq209
+Time Remaining (min): 6.033361732959747
+hq2090sm
+Time Remaining (min): 5.975492975446913
+hq2195
+Time Remaining (min): 6.064858263068729
+hq2510
+Time Remaining (min): 5.958930583794912
+hq2511
+Time Remaining (min): 6.0488029850853815
+hq2512
+Time Remaining (min): 6.019053819113307
+hq258
+Time Remaining (min): 5.944967714945475
+hq259
+Time Remaining (min): 5.970833519101143
+hq2590sm
+Time Remaining (min): 5.96743424071206
+hq259b
+Time Remaining (min): 5.957305133342743
+hq300gd2
+Time Remaining (min): 6.231713376442591
+hq3010
+Time Remaining (min): 5.918292747603522
+hq3011
+Time Remaining (min): 5.919074948628744
+hq3012
+Time Remaining (min): 5.9167072839207115
+hq3013
+Time Remaining (min): 6.857838915454017
+hq3014
+Time Remaining (min): 6.119874439636866
+hq3015
+Time Remaining (min): 5.876268932554457
+hq308
+Time Remaining (min): 5.891001225180096
+hq309
+Time Remaining (min): 5.8626657128334045
+hq3510
+Time Remaining (min): 5.857964689532916
+hq3512
+Time Remaining (min): 5.829510556326972
+hq3513
+Time Remaining (min): 5.835812513033549
+hq3514
+Time Remaining (min): 5.873909391959509
+hq3518
+Time Remaining (min): 5.824501751859983
+hq358
+Time Remaining (min): 5.797438085079193
+hq359
+Time Remaining (min): 5.759569392932786
+hs1404
+https://m-selig.ae.illinois.edu/ads/coord/hs1404.dat: 404
+http://airfoiltools.com/polar/csv?polar=xf-hs1404-il-100000: 404
+Time Remaining (min): 5.847115149100621
+hs1430
+https://m-selig.ae.illinois.edu/ads/coord/hs1430.dat: 404
+Time Remaining (min): 5.778759545087814
+hs1606
+https://m-selig.ae.illinois.edu/ads/coord/hs1606.dat: 404
+Time Remaining (min): 5.766569932301839
+hs1620
+https://m-selig.ae.illinois.edu/ads/coord/hs1620.dat: 404
+Time Remaining (min): 5.748497421542804
+hs1708
+https://m-selig.ae.illinois.edu/ads/coord/hs1708.dat: 404
+Time Remaining (min): 5.792221939563751
+hs1712
+https://m-selig.ae.illinois.edu/ads/coord/hs1712.dat: 404
+Time Remaining (min): 5.999227114518484
+hsnlf213
+Time Remaining (min): 5.7615891906950205
+ht05
+Time Remaining (min): 5.728912065426509
+ht08
+Time Remaining (min): 5.723545170492596
+ht12
+Time Remaining (min): 5.7337824867831335
+ht22
+Time Remaining (min): 5.674009537696838
+ht23
+Time Remaining (min): 5.682718864414427
+isa571
+Time Remaining (min): 5.701963608794742
+isa960
+Time Remaining (min): 5.7665535261233645
+isa961
+Time Remaining (min): 5.682503798272875
+isa962
+Time Remaining (min): 6.385838942064179
+j5012
+Time Remaining (min): 5.853459864854813
+jn153
+Time Remaining (min): 5.634336690107982
+joukowsk
+Time Remaining (min): 5.606941435072157
+joukowsk0009
+https://m-selig.ae.illinois.edu/ads/coord/joukowsk0009.dat: 404
+Time Remaining (min): 5.729617345333099
+joukowsk0015
+https://m-selig.ae.illinois.edu/ads/coord/joukowsk0015.dat: 404
+Time Remaining (min): 5.603695576720767
+joukowsk0018
+https://m-selig.ae.illinois.edu/ads/coord/joukowsk0018.dat: 404
+Time Remaining (min): 5.576607694559627
+joukowsk0021
+https://m-selig.ae.illinois.edu/ads/coord/joukowsk0021.dat: 404
+Time Remaining (min): 5.5919497807820635
+k1
+Time Remaining (min): 5.606376265486081
+k2
+Time Remaining (min): 5.544397032923168
+k3
+Time Remaining (min): 5.551514557997385
+k3311
+Time Remaining (min): 5.66563442018297
+k3311sm
+Time Remaining (min): 5.548959725764063
+kc135a
+Time Remaining (min): 5.566784828901291
+kc135b
+Time Remaining (min): 5.544116031130155
+kc135c
+Time Remaining (min): 5.555145865016513
+kc135d
+Time Remaining (min): 5.521133088072141
+kc135winglet
+https://m-selig.ae.illinois.edu/ads/coord/kc135winglet.dat: 404
+Time Remaining (min): 5.502832871013218
+kenmar
+Time Remaining (min): 5.48583683040407
+l1003
+https://m-selig.ae.illinois.edu/ads/coord/l1003.dat: 404
+Time Remaining (min): 5.492276509602864
+l188root
+Time Remaining (min): 5.553952265779177
+l188tip
+Time Remaining (min): 5.463226640224457
+l7769
+Time Remaining (min): 5.445421242713929
+la203a
+Time Remaining (min): 5.637694590621525
+la2573a
+Time Remaining (min): 5.446377205848694
+la5055
+https://m-selig.ae.illinois.edu/ads/coord/la5055.dat: 404
+Time Remaining (min): 5.42537815173467
+lds2
+Time Remaining (min): 5.412357512116432
+lg10sc
+Time Remaining (min): 5.380953227149115
+lnv109a
+Time Remaining (min): 5.445303946733475
+lrn1007
+Time Remaining (min): 5.5039703004890015
+lrn1015
+https://m-selig.ae.illinois.edu/ads/coord/lrn1015.dat: 404
+Time Remaining (min): 5.39178509314855
+ls013
+Time Remaining (min): 5.349196302890777
+ls413
+Time Remaining (min): 5.421338506539663
+ls413mod
+Time Remaining (min): 5.418159001403385
+ls417
+Time Remaining (min): 5.334495724240939
+ls417mod
+Time Remaining (min): 5.3548063066270615
+ls421
+Time Remaining (min): 5.356168860859341
+ls421mod
+Time Remaining (min): 5.304256616036097
+lwk79100
+Time Remaining (min): 5.32901983625359
+lwk80080
+Time Remaining (min): 5.442232824696434
+lwk80100
+Time Remaining (min): 5.307330459356308
+lwk80120k25
+Time Remaining (min): 5.327654930618074
+lwk80150k25
+Time Remaining (min): 5.258018785383967
+m1
+Time Remaining (min): 5.250476598739624
+m10
+Time Remaining (min): 5.316082441806794
+m11
+Time Remaining (min): 5.273107698228624
+m12
+Time Remaining (min): 5.240310741464297
+m13
+Time Remaining (min): 5.249744174215529
+m14
+Time Remaining (min): 5.7259634137153625
+m15
+Time Remaining (min): 5.204939961433411
+m16
+Time Remaining (min): 5.3748918245236075
+m17
+Time Remaining (min): 5.207518100738525
+m18
+Time Remaining (min): 5.2055279344320295
+m19
+Time Remaining (min): 5.199798782666524
+m2
+Time Remaining (min): 5.192867891987165
+m20
+Time Remaining (min): 5.158688747882843
+m21
+Time Remaining (min): 5.159068698022101
+m22
+Time Remaining (min): 5.193169281217787
+m23
+Time Remaining (min): 5.126744195818901
+m24
+Time Remaining (min): 5.122807200749715
+m25
+Time Remaining (min): 5.136352176798715
+m26
+Time Remaining (min): 5.565782405932745
+m27
+Time Remaining (min): 5.07921974129147
+m3
+Time Remaining (min): 5.088961336347792
+m4
+Time Remaining (min): 5.085678171118101
+m5
+Time Remaining (min): 5.082639975680245
+m6
+Time Remaining (min): 5.078610329495536
+m665
+Time Remaining (min): 5.1117912292480465
+m685
+Time Remaining (min): 5.05630328423447
+m7
+Time Remaining (min): 5.135433681805929
+m8
+Time Remaining (min): 5.043602554003398
+m9
+Time Remaining (min): 5.025462337334951
+ma409
+Time Remaining (min): 4.987514693207211
+ma409sm
+Time Remaining (min): 4.975484828154246
+marsden
+Time Remaining (min): 5.042863901456197
+marske1
+Time Remaining (min): 5.002312344974942
+marske2
+Time Remaining (min): 4.983305498957634
+marske3
+Time Remaining (min): 4.94896178179317
+marske4
+Time Remaining (min): 4.983282016383277
+marske5
+Time Remaining (min): 4.9790963411331175
+marske7
+Time Remaining (min): 4.9313005401028525
+mb253515sm
+Time Remaining (min): 5.001566625965966
+mh102
+Time Remaining (min): 5.106841237346331
+mh104
+Time Remaining (min): 4.919341007868449
+mh106
+Time Remaining (min): 5.4517626676294535
+mh108
+Time Remaining (min): 4.994624763727188
+mh110
+Time Remaining (min): 4.904527456892861
+mh112
+Time Remaining (min): 4.896987603770362
+mh113
+Time Remaining (min): 4.877088705698649
+mh114
+Time Remaining (min): 4.885339613755544
+mh115
+Time Remaining (min): 5.072173585825496
+mh116
+Time Remaining (min): 4.8427764495213825
+mh117
+Time Remaining (min): 4.876232299539778
+mh120
+Time Remaining (min): 4.802587065431807
+mh121
+Time Remaining (min): 4.823102134466171
+mh122
+Time Remaining (min): 4.820426381958855
+mh150
+Time Remaining (min): 4.810525984565417
+mh18
+Time Remaining (min): 4.816770249605179
+mh20
+Time Remaining (min): 4.743993502524164
+mh200
+Time Remaining (min): 4.829915311601427
+mh201
+Time Remaining (min): 4.8295535455147425
+mh22
+Time Remaining (min): 4.758155673742294
+mh23
+Time Remaining (min): 4.776909057299296
+mh24
+Time Remaining (min): 4.751144349575043
+mh25
+Time Remaining (min): 4.75084849761592
+mh26
+Time Remaining (min): 4.761999585893419
+mh27
+Time Remaining (min): 4.791668300827344
+mh30
+Time Remaining (min): 4.716418017281426
+mh32
+Time Remaining (min): 5.57012571560012
+mh33
+Time Remaining (min): 4.683034793535868
+mh38
+Time Remaining (min): 4.7692181355423395
+mh42
+Time Remaining (min): 4.65602489180035
+mh43
+Time Remaining (min): 4.651514250040054
+mh44
+Time Remaining (min): 4.64586599667867
+mh45
+Time Remaining (min): 4.638651880290773
+mh46
+Time Remaining (min): 4.6721826235453285
+mh60
+Time Remaining (min): 4.638665876785914
+mh61
+Time Remaining (min): 4.641034587224325
+mh62
+Time Remaining (min): 4.595344662666321
+mh64
+Time Remaining (min): 4.610008789433373
+mh70
+Time Remaining (min): 4.652903030978309
+mh78
+Time Remaining (min): 4.586489820480347
+mh80
+Time Remaining (min): 4.579379323456022
+mh81
+Time Remaining (min): 4.559539702203539
+mh82
+Time Remaining (min): 4.548206688960393
+mh83
+Time Remaining (min): 4.5206406275431315
+mh84
+Time Remaining (min): 4.539198169112206
+mh91
+Time Remaining (min): 4.572400565942129
+mh92
+Time Remaining (min): 4.52095882429017
+mh93
+Time Remaining (min): 5.341384658548567
+mh94
+Time Remaining (min): 4.539270606637001
+mh95
+Time Remaining (min): 4.5401597764756945
+miley
+Time Remaining (min): 4.515289657645756
+mrc-16
+Time Remaining (min): 4.483560293912888
+mrc-20
+Time Remaining (min): 4.461281733049287
+ms313
+Time Remaining (min): 4.482293461428748
+ms317
+Time Remaining (min): 4.4682973007361095
+mue139
+Time Remaining (min): 4.438365088568793
+n0009sm
+Time Remaining (min): 4.441501647233963
+n0011sc
+Time Remaining (min): 4.419099807739258
+n0012
+Time Remaining (min): 4.486094250612789
+n10
+Time Remaining (min): 4.401186021169027
+n11
+Time Remaining (min): 4.425030265251795
+n11h9
+Time Remaining (min): 4.404250615172916
+n12
+Time Remaining (min): 4.394494147433175
+n13
+Time Remaining (min): 4.386748552322388
+n14
+Time Remaining (min): 4.350949183437559
+n1h15
+Time Remaining (min): 4.358705377578735
+n22
+Time Remaining (min): 4.339581161737442
+n24
+Time Remaining (min): 4.333698766099082
+n2414
+Time Remaining (min): 4.294779116577573
+n2415
+Time Remaining (min): 4.321087114016215
+n2h15
+Time Remaining (min): 4.302227198415332
+n5h10
+Time Remaining (min): 4.304889546500312
+n5h15
+Time Remaining (min): 4.397782868146896
+n5h20
+Time Remaining (min): 4.2927754640579225
+n63010a
+Time Remaining (min): 4.283062331544029
+n63012a
+Time Remaining (min): 4.2311139643192295
+n63015a
+Time Remaining (min): 4.230718930562337
+n63210
+Time Remaining (min): 4.2445953488349915
+n63212
+Time Remaining (min): 4.224910957614581
+n63215
+Time Remaining (min): 4.304249306519826
+n63215b
+Time Remaining (min): 4.2196252326170605
+n63412
+Time Remaining (min): 4.500350634256999
+n63415
+Time Remaining (min): 4.195991433991326
+n64008a
+Time Remaining (min): 4.187739941808912
+n64012
+Time Remaining (min): 4.67591447532177
+n64012a
+Time Remaining (min): 4.189906635549334
+n64015
+Time Remaining (min): 4.160842208398713
+n64015a
+Time Remaining (min): 4.219380708535512
+n6409
+Time Remaining (min): 4.140551187925869
+n64108
+Time Remaining (min): 4.896748850080702
+n64110
+Time Remaining (min): 4.15099960565567
+n64212
+Time Remaining (min): 4.131894032160441
+n64212ma
+Time Remaining (min): 4.199917135304875
+n64212mb
+Time Remaining (min): 4.122725093364716
+n64215
+Time Remaining (min): 4.112026448713409
+n66021
+Time Remaining (min): 4.183626381556193
+n6h10
+Time Remaining (min): 4.0805642902851105
+n6h15
+Time Remaining (min): 4.059831878874037
+n6h20
+Time Remaining (min): 4.081137926710976
+n8h12
+Time Remaining (min): 4.0491887907187145
+n9
+Time Remaining (min): 4.037978488538
+naca0006
+http://airfoiltools.com/polar/csv?polar=xf-naca0006-il-500000: 404
+Time Remaining (min): 4.016704612308079
+naca0008
+Time Remaining (min): 4.008467379212379
+naca000834
+Time Remaining (min): 4.084319909413655
+naca0010
+Time Remaining (min): 3.9909961452086766
+naca001034
+Time Remaining (min): 3.9871849060058593
+naca001034a08cli02
+https://m-selig.ae.illinois.edu/ads/coord/naca001034a08cli02.dat: 404
+Time Remaining (min): 3.988603889942169
+naca001035
+Time Remaining (min): 3.978547692961163
+naca001064
+Time Remaining (min): 3.980679686864217
+naca001065
+Time Remaining (min): 4.01656053993437
+naca001066
+Time Remaining (min): 3.9401608182324304
+naca001234
+Time Remaining (min): 3.943297415971756
+naca001264
+Time Remaining (min): 3.9157857762442694
+naca001264a08cli02
+https://m-selig.ae.illinois.edu/ads/coord/naca001264a08cli02.dat: 404
+Time Remaining (min): 3.947975836859809
+naca0012h
+https://m-selig.ae.illinois.edu/ads/coord/naca0012h.dat: 404
+Time Remaining (min): 3.9113145063320798
+naca0015
+Time Remaining (min): 3.917874636914995
+naca0018
+Time Remaining (min): 3.8908592893017664
+naca0021
+Time Remaining (min): 3.8980290134747824
+naca0024
+Time Remaining (min): 3.9425098803308276
+naca1408
+Time Remaining (min): 3.8771356006463367
+naca1410
+Time Remaining (min): 4.026793682575226
+naca1412
+Time Remaining (min): 3.837689028845893
+naca16006
+Time Remaining (min): 3.842792046401236
+naca16009
+Time Remaining (min): 3.895236869653066
+naca16012
+Time Remaining (min): 3.970583993527624
+naca16015
+Time Remaining (min): 3.823643743991852
+naca16018
+Time Remaining (min): 3.813495268424352
+naca16021
+Time Remaining (min): 3.8044212096267276
+naca22112
+https://m-selig.ae.illinois.edu/ads/coord/naca22112.dat: 404
+Time Remaining (min): 3.777276090780894
+naca23012
+Time Remaining (min): 3.777906560897827
+naca23015
+Time Remaining (min): 3.822898773352305
+naca23018
+Time Remaining (min): 3.758473641342587
+naca23021
+Time Remaining (min): 3.785117030143738
+naca23024
+Time Remaining (min): 3.8488216506110295
+naca23112
+https://m-selig.ae.illinois.edu/ads/coord/naca23112.dat: 404
+Time Remaining (min): 3.742872652411461
+naca2408
+Time Remaining (min): 3.738914473851522
+naca2410
+Time Remaining (min): 3.899158380097813
+naca2411
+Time Remaining (min): 3.709683084487915
+naca24112
+https://m-selig.ae.illinois.edu/ads/coord/naca24112.dat: 404
+Time Remaining (min): 3.7333937257528307
+naca2412
+Time Remaining (min): 3.705539789464739
+naca2415
+Time Remaining (min): 3.722328664859136
+naca2418
+Time Remaining (min): 3.691934049129486
+naca2421
+Time Remaining (min): 3.679425882299741
+naca2424
+Time Remaining (min): 3.7029167777962155
+naca25112
+https://m-selig.ae.illinois.edu/ads/coord/naca25112.dat: 404
+Time Remaining (min): 3.717044708132744
+naca4412
+Time Remaining (min): 3.638282330830892
+naca4415
+Time Remaining (min): 3.6382738765743046
+naca4418
+Time Remaining (min): 3.614982879161835
+naca4421
+Time Remaining (min): 3.6334530572096506
+naca4424
+Time Remaining (min): 3.5986838830841914
+naca63206
+Time Remaining (min): 3.7697937289873757
+naca63209
+Time Remaining (min): 3.5917775564723544
+naca632615
+Time Remaining (min): 3.608362293574545
+naca632a015
+Time Remaining (min): 3.621314040819804
+naca633018
+Time Remaining (min): 3.573401755756802
+naca633218
+Time Remaining (min): 3.5516941302352483
+naca633418
+Time Remaining (min): 3.5573668777942657
+naca633618
+Time Remaining (min): 3.5547286762131587
+naca634221
+Time Remaining (min): 3.5339591410424975
+naca634421
+Time Remaining (min): 3.5353465755780538
+naca63a210
+Time Remaining (min): 3.538016915983624
+naca641112
+Time Remaining (min): 3.5059995121426053
+naca6412
+Time Remaining (min): 3.485516600807508
+naca64206
+Time Remaining (min): 3.4810184942351445
+naca64208
+Time Remaining (min): 3.549300288822916
+naca64209
+Time Remaining (min): 3.4869296669960024
+naca64210
+Time Remaining (min): 3.4970535321368112
+naca642215
+Time Remaining (min): 3.439384084939957
+naca642415
+Time Remaining (min): 3.4339146107435226
+naca643218
+Time Remaining (min): 3.4594957166247897
+naca643418
+Time Remaining (min): 3.4487838990158504
+naca643618
+Time Remaining (min): 3.823376407225927
+naca644221
+Time Remaining (min): 3.4192905293570623
+naca644421
+Time Remaining (min): 3.436671284834544
+naca64a010
+Time Remaining (min): 3.414580988883972
+naca64a210
+Time Remaining (min): 3.417461770772934
+naca64a410
+Time Remaining (min): 3.37717512746652
+naca651212
+Time Remaining (min): 3.3515989939371744
+naca651212a06
+Time Remaining (min): 3.3454018000099395
+naca651412
+Time Remaining (min): 3.3491771029101476
+naca65206
+Time Remaining (min): 3.3575424551963806
+naca65209
+Time Remaining (min): 3.350335876146952
+naca65210
+Time Remaining (min): 3.339341134826342
+naca652215
+Time Remaining (min): 3.324391257762909
+naca652415
+Time Remaining (min): 3.316911372211244
+naca652415a05
+Time Remaining (min): 3.297910557852851
+naca653218
+Time Remaining (min): 3.291155149539312
+naca653618
+Time Remaining (min): 3.296948628955417
+naca65410
+Time Remaining (min): 3.2806468235121833
+naca654221
+Time Remaining (min): 3.5304282665252686
+naca654421
+Time Remaining (min): 3.25911943813165
+naca654421a05
+Time Remaining (min): 3.2356783383422427
+naca66-018
+Time Remaining (min): 3.2554722130298615
+naca661212
+Time Remaining (min): 3.222200859917535
+naca66206
+Time Remaining (min): 3.218548780679703
+naca66209
+Time Remaining (min): 3.2435986677805584
+naca66210
+Time Remaining (min): 3.2244110024637647
+naca662215
+Time Remaining (min): 3.2687133775817023
+naca662415
+Time Remaining (min): 3.210301838318507
+naca663218
+Time Remaining (min): 3.1818668226401012
+naca663418
+Time Remaining (min): 3.185375693440437
+naca664221
+Time Remaining (min): 3.1473153829574585
+naca671215
+Time Remaining (min): 3.1653263684776096
+naca747a315
+Time Remaining (min): 3.2800264027383594
+naca747a415
+Time Remaining (min): 3.123983098069827
+nacacyh
+Time Remaining (min): 3.1321111824777392
+nacam12
+Time Remaining (min): 3.4551000561979084
+nacam18
+Time Remaining (min): 3.1022077480951946
+nacam2
+Time Remaining (min): 3.153452484475242
+nacam3
+Time Remaining (min): 3.09389861424764
+nacam6
+Time Remaining (min): 3.091695249080658
+nasasc2-0714
+Time Remaining (min): 3.0822624266147614
+ncambre
+Time Remaining (min): 3.0495068268643486
+nl722343
+Time Remaining (min): 3.224909210205078
+nl722362
+Time Remaining (min): 3.064421115650071
+nlf0115
+Time Remaining (min): 3.035553683174981
+nlf0215f
+Time Remaining (min): 3.0132443010807037
+nlf1015
+Time Remaining (min): 3.1511578136020235
+nlf414f
+Time Remaining (min): 3.004180340303315
+nlf415
+Time Remaining (min): 3.0017786800861357
+nlf416
+Time Remaining (min): 3.00514787932237
+nlr1t
+Time Remaining (min): 2.9971693952878318
+nlr7301
+Time Remaining (min): 2.9961258580287295
+nn7mk20
+Time Remaining (min): 2.976075378391478
+npl9510
+Time Remaining (min): 2.967764667669932
+npl9615
+Time Remaining (min): 2.952681620915731
+npl9626
+Time Remaining (min): 2.963660427265697
+npl9627
+Time Remaining (min): 2.9358874115679
+npl9660
+Time Remaining (min): 2.917348262667656
+nplx
+Time Remaining (min): 2.9204034248987836
+oa206
+Time Remaining (min): 2.9031307339668273
+oa209
+Time Remaining (min): 2.8962675631046295
+oa212
+Time Remaining (min): 2.889124392800861
+oa213
+Time Remaining (min): 2.8993063476350573
+oaf095
+Time Remaining (min): 2.86062096953392
+oaf102
+Time Remaining (min): 2.8956977201832665
+oaf117
+Time Remaining (min): 2.8532052122884326
+oaf128
+Time Remaining (min): 2.8490182757377625
+oaf139
+Time Remaining (min): 2.853225980864631
+p51droot
+Time Remaining (min): 2.826713325579961
+p51dtip
+Time Remaining (min): 2.818424094716708
+p51hroot
+Time Remaining (min): 2.8030356301201715
+p51htip
+Time Remaining (min): 2.8646116611030368
+pfcm
+Time Remaining (min): 2.7943653563658395
+pmc19sm
+Time Remaining (min): 2.770163980126381
+prandtl-d-root
+https://m-selig.ae.illinois.edu/ads/coord/prandtl-d-root.dat: 404
+Time Remaining (min): 2.813829787572225
+prandtl-d-tip
+https://m-selig.ae.illinois.edu/ads/coord/prandtl-d-tip.dat: 404
+Time Remaining (min): 2.9506429880857468
+psu-90-125wl
+Time Remaining (min): 2.761206434170405
+psu94097
+Time Remaining (min): 2.73507003320588
+pt40
+Time Remaining (min): 2.7577887455622356
+pw106
+https://m-selig.ae.illinois.edu/ads/coord/pw106.dat: 404
+Time Remaining (min): 2.7386694461107255
+pw1211
+https://m-selig.ae.illinois.edu/ads/coord/pw1211.dat: 404
+Time Remaining (min): 2.729259838660558
+pw51
+https://m-selig.ae.illinois.edu/ads/coord/pw51.dat: 404
+Time Remaining (min): 2.7204261014858884
+pw75
+https://m-selig.ae.illinois.edu/ads/coord/pw75.dat: 404
+Time Remaining (min): 2.859079317251841
+pw98mod
+https://m-selig.ae.illinois.edu/ads/coord/pw98mod.dat: 404
+Time Remaining (min): 2.707323897216055
+r1046
+Time Remaining (min): 5.925935637950897
+r1080
+Time Remaining (min): 2.6821665912866592
+r1082
+Time Remaining (min): 2.7216347217559815
+r1082t
+Time Remaining (min): 2.6755320290724436
+r140
+Time Remaining (min): 2.8195878095097013
+r140sm
+Time Remaining (min): 2.6250691284735996
+rae100
+Time Remaining (min): 2.6395333806673684
+rae101
+Time Remaining (min): 2.608259185155233
+rae102
+Time Remaining (min): 2.604287787940767
+rae103
+Time Remaining (min): 2.599628323316574
+rae104
+Time Remaining (min): 2.619843758477105
+rae2822
+Time Remaining (min): 2.579135482509931
+rae5212
+Time Remaining (min): 2.580570258696874
+rae5213
+Time Remaining (min): 2.587439144651095
+rae5214
+Time Remaining (min): 2.588848845163981
+rae5215
+Time Remaining (min): 2.5497973124186197
+rae69ck
+Time Remaining (min): 2.554353098074595
+raf15
+Time Remaining (min): 3.0623876882923975
+raf19
+Time Remaining (min): 2.565218448638916
+raf25
+Time Remaining (min): 2.5060026470157837
+raf26
+Time Remaining (min): 2.498051111565696
+raf27
+Time Remaining (min): 2.492994800209999
+raf28
+Time Remaining (min): 2.60246518585417
+raf30
+Time Remaining (min): 2.49452086687088
+raf30md
+Time Remaining (min): 2.4741575519243875
+raf31
+Time Remaining (min): 2.470960584614012
+raf32
+Time Remaining (min): 2.4618178606033325
+raf32md
+Time Remaining (min): 2.43433036506176
+raf33
+Time Remaining (min): 2.4554932845963373
+raf34
+Time Remaining (min): 2.433397334151798
+raf38
+Time Remaining (min): 2.4385745525360107
+raf48
+Time Remaining (min): 2.4221920470396676
+raf6
+Time Remaining (min): 2.3957345280382367
+raf69
+Time Remaining (min): 2.591539364059766
+raf89
+Time Remaining (min): 2.395587184694078
+rc0864c
+Time Remaining (min): 2.3913901739650303
+rc08b3
+Time Remaining (min): 2.360421806573868
+rc08n1
+Time Remaining (min): 2.359310451812214
+rc1064c
+Time Remaining (min): 2.355473187234667
+rc10b3
+Time Remaining (min): 2.3410075157880783
+rc10n1
+Time Remaining (min): 2.339403176307678
+rc1264c
+Time Remaining (min): 2.3398586412270865
+rc12b3
+Time Remaining (min): 2.3171790997187296
+rc12n1
+Time Remaining (min): 2.3251669757896
+rc410
+Time Remaining (min): 2.3285803258419038
+rc510
+Time Remaining (min): 2.285152170062065
+rcsc2
+Time Remaining (min): 2.2800317539109125
+rg12
+Time Remaining (min): 2.2714792993333606
+rg12a
+Time Remaining (min): 2.2560856342315674
+rg12a189
+Time Remaining (min): 2.262842564781507
+rg14
+Time Remaining (min): 2.2692142062717013
+rg1410
+Time Remaining (min): 2.25142968694369
+rg149
+Time Remaining (min): 2.218769758939743
+rg1495
+Time Remaining (min): 2.218048613932398
+rg14a147
+Time Remaining (min): 2.2120972752571104
+rg15
+Time Remaining (min): 2.2150969743728637
+rg15a111
+Time Remaining (min): 2.1829062865840063
+rg15a213
+Time Remaining (min): 2.178627540667852
+rg8
+Time Remaining (min): 2.166832457648383
+rhodesg30
+Time Remaining (min): 2.163617091708713
+rhodesg32
+Time Remaining (min): 2.7208140393098197
+rhodesg34
+Time Remaining (min): 2.135994338326984
+rhodesg36
+Time Remaining (min): 2.5189875615967643
+s1010
+Time Remaining (min): 2.1249452233314514
+s1012
+Time Remaining (min): 2.1157192210356395
+s1014
+Time Remaining (min): 2.103145030140877
+s1016
+Time Remaining (min): 2.0962107181549072
+s1020
+Time Remaining (min): 2.097801335983806
+s102b
+https://m-selig.ae.illinois.edu/ads/coord/s102b.dat: 404
+Time Remaining (min): 2.108774172597461
+s102s
+https://m-selig.ae.illinois.edu/ads/coord/s102s.dat: 404
+Time Remaining (min): 2.1149537354707717
+s1046
+Time Remaining (min): 2.084941401746538
+s1048
+Time Remaining (min): 2.0603806757264667
+s1091
+Time Remaining (min): 2.0577668070793154
+s1210
+Time Remaining (min): 2.056757244136598
+s1221-flap
+https://m-selig.ae.illinois.edu/ads/coord/s1221-flap.dat: 404
+Time Remaining (min): 2.634841701719496
+s1221
+Time Remaining (min): 2.018630341688792
+s1223
+Time Remaining (min): 1.996612850162718
+s1223rtl
+Time Remaining (min): 1.997634115152889
+s2027
+Time Remaining (min): 2.0041380325953164
+s2046
+Time Remaining (min): 1.9903308600187302
+s2048
+Time Remaining (min): 1.9870296465026007
+s2050
+Time Remaining (min): 2.0168181508779526
+s2055
+Time Remaining (min): 1.957487244076199
+s2060
+Time Remaining (min): 2.0410336037476857
+s2062
+Time Remaining (min): 2.0798214336236316
+s2091
+Time Remaining (min): 1.9277998367945353
+s3
+Time Remaining (min): 1.9390987422731187
+s3002
+Time Remaining (min): 1.9155377040306727
+s3010
+Time Remaining (min): 2.012074910932117
+s3014
+Time Remaining (min): 1.8984431574742
+s3016
+Time Remaining (min): 1.919121265411377
+s3021
+Time Remaining (min): 1.9768563542101119
+s3024
+Time Remaining (min): 1.8751366674900054
+s3025
+Time Remaining (min): 1.8649661719799042
+s4022
+Time Remaining (min): 1.8669444799423218
+s4053
+Time Remaining (min): 1.8370940261416966
+s4061
+Time Remaining (min): 1.8430205980936687
+s4062
+Time Remaining (min): 1.8408681703938379
+s4083
+Time Remaining (min): 1.8141078101264105
+s4094
+https://m-selig.ae.illinois.edu/ads/coord/s4094.dat: 404
+Time Remaining (min): 1.8023722678422929
+s4095
+https://m-selig.ae.illinois.edu/ads/coord/s4095.dat: 404
+Time Remaining (min): 2.030271922217475
+s4096
+https://m-selig.ae.illinois.edu/ads/coord/s4096.dat: 404
+Time Remaining (min): 1.8031093643771277
+s4110
+Time Remaining (min): 1.8637474338213602
+s4158
+Time Remaining (min): 1.907438760002454
+s4180
+Time Remaining (min): 1.7604653351836734
+s4233
+Time Remaining (min): 1.7504638502995173
+s4310
+Time Remaining (min): 1.7560947603649564
+s4320
+Time Remaining (min): 1.7288572751813465
+s5010
+Time Remaining (min): 1.7321079075336456
+s5020
+Time Remaining (min): 1.7660784850517908
+s6061
+Time Remaining (min): 1.7851925333340963
+s6062
+Time Remaining (min): 1.7840571403503418
+s6063
+Time Remaining (min): 1.70058886607488
+s7012
+Time Remaining (min): 1.6848173846801122
+s7055
+Time Remaining (min): 1.6824122746785481
+s7075
+Time Remaining (min): 1.6642307553026412
+s801
+https://m-selig.ae.illinois.edu/ads/coord/s801.dat: 404
+Time Remaining (min): 1.6560816731717851
+s802
+https://m-selig.ae.illinois.edu/ads/coord/s802.dat: 404
+Time Remaining (min): 1.9557720243930816
+s8025
+Time Remaining (min): 1.654003870487213
+s803
+https://m-selig.ae.illinois.edu/ads/coord/s803.dat: 404
+Time Remaining (min): 1.6384422954585818
+s8035
+Time Remaining (min): 1.6333572129408518
+s8036
+Time Remaining (min): 1.623549489511384
+s8037
+Time Remaining (min): 1.6161900891198053
+s8038
+Time Remaining (min): 1.6189369241396585
+s804
+https://m-selig.ae.illinois.edu/ads/coord/s804.dat: 404
+Time Remaining (min): 1.600266585747401
+s8052
+Time Remaining (min): 1.598085907763905
+s8055
+Time Remaining (min): 1.5767935514450073
+s805a
+https://m-selig.ae.illinois.edu/ads/coord/s805a.dat: 404
+Time Remaining (min): 1.5816723028818767
+s8064
+https://m-selig.ae.illinois.edu/ads/coord/s8064.dat: 404
+Time Remaining (min): 1.5629561656051212
+s8065
+https://m-selig.ae.illinois.edu/ads/coord/s8065.dat: 404
+Time Remaining (min): 1.5716973414023718
+s8066
+https://m-selig.ae.illinois.edu/ads/coord/s8066.dat: 404
+Time Remaining (min): 1.545092969470554
+s806a
+https://m-selig.ae.illinois.edu/ads/coord/s806a.dat: 404
+Time Remaining (min): 1.5210327174928453
+s807
+https://m-selig.ae.illinois.edu/ads/coord/s807.dat: 404
+Time Remaining (min): 1.5293828984101614
+s808
+https://m-selig.ae.illinois.edu/ads/coord/s808.dat: 404
+Time Remaining (min): 1.5185978170898227
+s809
+https://m-selig.ae.illinois.edu/ads/coord/s809.dat: 404
+Time Remaining (min): 1.5055673797925313
+s810
+https://m-selig.ae.illinois.edu/ads/coord/s810.dat: 404
+Time Remaining (min): 1.494126233458519
+s811
+https://m-selig.ae.illinois.edu/ads/coord/s811.dat: 404
+Time Remaining (min): 1.487600303358502
+s812
+https://m-selig.ae.illinois.edu/ads/coord/s812.dat: 404
+Time Remaining (min): 1.541644549369812
+s813
+https://m-selig.ae.illinois.edu/ads/coord/s813.dat: 404
+Time Remaining (min): 1.47859898408254
+s814
+https://m-selig.ae.illinois.edu/ads/coord/s814.dat: 404
+Time Remaining (min): 1.4738717406988144
+s815
+https://m-selig.ae.illinois.edu/ads/coord/s815.dat: 404
+Time Remaining (min): 1.4602470616499583
+s816
+https://m-selig.ae.illinois.edu/ads/coord/s816.dat: 404
+Time Remaining (min): 1.4470933725436528
+s817
+https://m-selig.ae.illinois.edu/ads/coord/s817.dat: 404
+Time Remaining (min): 1.4286183291011387
+s818
+https://m-selig.ae.illinois.edu/ads/coord/s818.dat: 404
+Time Remaining (min): 1.4239537712600496
+s819
+https://m-selig.ae.illinois.edu/ads/coord/s819.dat: 404
+Time Remaining (min): 1.4212645232677459
+s820
+https://m-selig.ae.illinois.edu/ads/coord/s820.dat: 404
+Time Remaining (min): 1.4134350862767961
+s821
+https://m-selig.ae.illinois.edu/ads/coord/s821.dat: 404
+Time Remaining (min): 1.3968089421590169
+s822
+https://m-selig.ae.illinois.edu/ads/coord/s822.dat: 404
+Time Remaining (min): 1.6536116699377696
+s823
+https://m-selig.ae.illinois.edu/ads/coord/s823.dat: 404
+Time Remaining (min): 1.3806088440948063
+s825
+https://m-selig.ae.illinois.edu/ads/coord/s825.dat: 404
+Time Remaining (min): 1.3728690445423126
+s826
+https://m-selig.ae.illinois.edu/ads/coord/s826.dat: 404
+Time Remaining (min): 1.357146934668223
+s827
+https://m-selig.ae.illinois.edu/ads/coord/s827.dat: 404
+Time Remaining (min): 1.369999360707071
+s828
+https://m-selig.ae.illinois.edu/ads/coord/s828.dat: 404
+Time Remaining (min): 1.3502044631375207
+s829
+https://m-selig.ae.illinois.edu/ads/coord/s829.dat: 404
+Time Remaining (min): 1.3505033165216447
+s830
+https://m-selig.ae.illinois.edu/ads/coord/s830.dat: 404
+Time Remaining (min): 1.3398924509684245
+s831
+https://m-selig.ae.illinois.edu/ads/coord/s831.dat: 404
+Time Remaining (min): 1.3345612357060115
+s832
+https://m-selig.ae.illinois.edu/ads/coord/s832.dat: 404
+Time Remaining (min): 1.3621216515700023
+s833
+https://m-selig.ae.illinois.edu/ads/coord/s833.dat: 404
+Time Remaining (min): 1.3054601924286948
+s834
+https://m-selig.ae.illinois.edu/ads/coord/s834.dat: 404
+Time Remaining (min): 1.2959515346421135
+s835
+https://m-selig.ae.illinois.edu/ads/coord/s835.dat: 404
+Time Remaining (min): 1.2853653321663538
+s9000
+Time Remaining (min): 1.2702894277042813
+s9026
+Time Remaining (min): 1.266068504916297
+s9027
+Time Remaining (min): 1.2618907928466796
+s9032
+Time Remaining (min): 1.2514823496341705
+s9033
+Time Remaining (min): 1.2607566297054291
+s9037
+Time Remaining (min): 1.2386668066183726
+sa7024
+Time Remaining (min): 1.2268950608041551
+sa7025
+Time Remaining (min): 1.214363439877828
+sa7026
+Time Remaining (min): 1.1978589514891307
+sa7035
+Time Remaining (min): 1.1902166465918222
+sa7036
+Time Remaining (min): 1.1778476238250732
+sa7038
+Time Remaining (min): 1.18004809319973
+saratov
+Time Remaining (min): 1.1664087772369385
+sc1012r8
+Time Remaining (min): 1.162466718422042
+sc1094r8
+Time Remaining (min): 1.191814625263214
+sc1095
+Time Remaining (min): 1.3368759055932362
+sc1095r8
+Time Remaining (min): 1.1395460532771216
+sc20010
+Time Remaining (min): 1.12851120531559
+sc20012
+Time Remaining (min): 1.1245596143934462
+sc20402
+Time Remaining (min): 1.1142880005968943
+sc20403
+Time Remaining (min): 1.1075907707214356
+sc20404
+Time Remaining (min): 1.0950526429547205
+sc20406
+Time Remaining (min): 1.0837081313133239
+sc20410
+Time Remaining (min): 1.0759368608395259
+sc20412
+Time Remaining (min): 1.0698750721083747
+sc20414
+Time Remaining (min): 1.0560965574449963
+sc20503
+Time Remaining (min): 1.0473479827245076
+sc20518
+Time Remaining (min): 1.047806402378612
+sc20606
+Time Remaining (min): 1.0293895330693987
+sc20610
+Time Remaining (min): 1.017132219672203
+sc20612
+Time Remaining (min): 1.231978189945221
+sc20614
+Time Remaining (min): 1.0135996523830626
+sc20706
+Time Remaining (min): 0.9965362449487051
+sc20710
+Time Remaining (min): 0.9903933369451099
+sc20712
+Time Remaining (min): 0.9820393138461643
+sc20714
+Time Remaining (min): 0.9770412623882294
+sc21006
+Time Remaining (min): 0.9634755286905501
+sc21010
+Time Remaining (min): 0.9599711775779725
+sc2110
+Time Remaining (min): 0.9749374508857727
+sd2030
+Time Remaining (min): 0.9387271612882614
+sd2083
+Time Remaining (min): 0.936192880736457
+sd5060
+Time Remaining (min): 0.9218511084715525
+sd6060
+Time Remaining (min): 0.9121844106250339
+sd6080
+Time Remaining (min): 0.896587108903461
+sd7003
+Time Remaining (min): 0.9191293696562449
+sd7032
+Time Remaining (min): 0.8814514305856492
+sd7034
+Time Remaining (min): 0.882760849263933
+sd7037
+Time Remaining (min): 0.8774576604366302
+sd7043
+Time Remaining (min): 0.8573979013495975
+sd7062
+Time Remaining (min): 0.8560849808984332
+sd7080
+Time Remaining (min): 0.8726592063903809
+sd7084
+Time Remaining (min): 0.8779188593228658
+sd7090
+Time Remaining (min): 0.8251665704780154
+sd8000
+Time Remaining (min): 0.8177884846925736
+sd8020
+Time Remaining (min): 0.8063520431518555
+sd8040
+Time Remaining (min): 0.8234496295452118
+sg6040
+Time Remaining (min): 0.79175665974617
+sg6041
+Time Remaining (min): 0.7785298738214704
+sg6042
+Time Remaining (min): 0.7717787318759495
+sg6043
+Time Remaining (min): 0.7635031680266062
+sg6050
+Time Remaining (min): 0.7538581848144531
+sg6051
+Time Remaining (min): 0.7457514173454709
+sm701
+Time Remaining (min): 0.7378858804702759
+sokolov
+Time Remaining (min): 0.7219237357378006
+sp4621hp
+https://m-selig.ae.illinois.edu/ads/coord/sp4621hp.dat: 404
+http://airfoiltools.com/polar/csv?polar=xf-sp4621hp-po-50000: 404
+http://airfoiltools.com/polar/csv?polar=xf-sp4621hp-po-100000: 404
+Time Remaining (min): 0.719069614013036
+sp4721la
+https://m-selig.ae.illinois.edu/ads/coord/sp4721la.dat: 404
+http://airfoiltools.com/polar/csv?polar=xf-sp4721la-po-50000: 404
+http://airfoiltools.com/polar/csv?polar=xf-sp4721la-po-100000: 404
+Time Remaining (min): 0.7120593041181564
+spicasm
+Time Remaining (min): 0.7356053193410238
+ssca07
+Time Remaining (min): 0.7443594184186724
+ssca09
+Time Remaining (min): 0.6847117304801941
+stcyr171
+Time Remaining (min): 0.6724533938699299
+stcyr172
+Time Remaining (min): 0.6666536291440328
+stcyr234
+Time Remaining (min): 0.6559620797634125
+stcyr24
+Time Remaining (min): 0.6494339836968316
+ste87151
+Time Remaining (min): 0.6575275291999181
+ste87391
+Time Remaining (min): 0.6292267084121704
+stf86361
+Time Remaining (min): 0.6376343346304364
+strand
+Time Remaining (min): 0.6172002818849351
+supermarine371i
+https://m-selig.ae.illinois.edu/ads/coord/supermarine371i.dat: 404
+Time Remaining (min): 0.6025718381007512
+supermarine371ii
+https://m-selig.ae.illinois.edu/ads/coord/supermarine371ii.dat: 404
+Time Remaining (min): 0.6018493109279208
+tempest1
+Time Remaining (min): 0.6014767878585392
+tempest2
+Time Remaining (min): 0.6306395550568898
+tempest3
+Time Remaining (min): 0.5802503873904546
+th25816
+Time Remaining (min): 0.5643797344631619
+trainer60
+Time Remaining (min): 0.5523348420858383
+tsagi-r-3a
+https://m-selig.ae.illinois.edu/ads/coord/tsagi-r-3a.dat: 404
+Time Remaining (min): 0.5442563176155091
+tsagi12
+Time Remaining (min): 0.5683487789498435
+tsagi8
+Time Remaining (min): 0.5312792261441549
+ua2-180
+Time Remaining (min): 0.5195470343033473
+ua2-180sm
+Time Remaining (min): 0.5137652814388275
+ua79sf18
+Time Remaining (min): 0.508934161067009
+ua79sff
+Time Remaining (min): 0.4953907701704237
+ua79sfm
+Time Remaining (min): 0.48184170325597125
+uag8814320
+Time Remaining (min): 0.4725924074649811
+ui1720
+Time Remaining (min): 0.46240580479303994
+ultimate
+Time Remaining (min): 0.45670560201009114
+us1000root
+Time Remaining (min): 0.44654381374518076
+usa22
+Time Remaining (min): 0.4337916606002384
+usa25
+Time Remaining (min): 0.429393313659562
+usa26
+Time Remaining (min): 0.420294459660848
+usa27
+Time Remaining (min): 0.41392202079296114
+usa27m2
+Time Remaining (min): 0.402635168366962
+usa28
+Time Remaining (min): 0.3927926868200302
+usa29
+Time Remaining (min): 0.3847584260834588
+usa31
+Time Remaining (min): 0.37892734938197664
+usa32
+Time Remaining (min): 0.3831850190957387
+usa33
+Time Remaining (min): 0.48096638719240825
+usa34
+Time Remaining (min): 0.3534842332204183
+usa35
+Time Remaining (min): 0.3487098236878713
+usa35a
+Time Remaining (min): 0.3377706103854709
+usa35b
+Time Remaining (min): 0.3229654487636354
+usa40
+Time Remaining (min): 0.31733825206756594
+usa40b
+Time Remaining (min): 0.32267671989070046
+usa41
+Time Remaining (min): 0.2970435943868425
+usa45
+Time Remaining (min): 0.2871922582387924
+usa45m
+Time Remaining (min): 0.27879821989271375
+usa46
+Time Remaining (min): 0.2847300089067883
+usa48
+Time Remaining (min): 0.2626313368479411
+usa49
+Time Remaining (min): 0.25581552022033266
+usa5
+Time Remaining (min): 0.2433025386598375
+usa50
+Time Remaining (min): 0.23575248420238495
+usa51
+Time Remaining (min): 0.22931242254045275
+usa98
+Time Remaining (min): 0.27431812551286483
+usnps4
+Time Remaining (min): 0.20993030071258545
+v13006
+Time Remaining (min): 0.20292666322655148
+v13009
+Time Remaining (min): 0.19330129159821405
+v23010
+Time Remaining (min): 0.19070790708065033
+v43012
+Time Remaining (min): 0.17466297414567736
+v43015
+Time Remaining (min): 0.16660822365019057
+vr1
+Time Remaining (min): 0.15739439725875853
+vr11x
+Time Remaining (min): 0.14882159266206954
+vr12
+Time Remaining (min): 0.1409976217481825
+vr13
+Time Remaining (min): 0.13225560386975607
+vr14
+Time Remaining (min): 0.12210277054044935
+vr15
+Time Remaining (min): 0.1162637710571289
+vr5
+Time Remaining (min): 0.10479076703389485
+vr7
+Time Remaining (min): 0.0959764944182502
+vr7b
+Time Remaining (min): 0.08832333154148525
+vr8
+Time Remaining (min): 0.07887232601642609
+vr8b
+Time Remaining (min): 0.06974061065249973
+vr9
+Time Remaining (min): 0.061962660484843786
+waspsm
+Time Remaining (min): 0.05917081634203593
+wb13535sm
+Time Remaining (min): 0.04378505382272932
+wb140
+Time Remaining (min): 0.034850888782077365
+whitcomb
+Time Remaining (min): 0.030832720796267192
+ys900
+Time Remaining (min): 0.017555377880732217
+ys915
+Time Remaining (min): 0.008789244294166564
+ys930
+Time Remaining (min): 0.0
